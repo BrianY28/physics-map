@@ -1,0 +1,223 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Planck's law fits the observed spectrum and avoids the ultraviolet catastrophe.",
+          "title": "Blackbody radiation law"
+        },
+        {
+          "note": "The classical Rayleigh–Jeans law predicts divergent energy at short wavelengths.",
+          "title": "Ultraviolet catastrophe"
+        },
+        {
+          "note": "Energy exchange occurs in units E = hν, where ν is frequency.",
+          "title": "Energy quantization"
+        },
+        {
+          "note": "h ≈ 6.626 × 10⁻³⁴ J s sets the quantum of action.",
+          "title": "Planck constant"
+        }
+      ],
+      "note": "Planck explained blackbody radiation by assuming oscillator energies are emitted or absorbed in discrete quanta E = hν, introducing the Planck constant h.",
+      "people": [
+        "Max Planck"
+      ],
+      "title": "Planck quantum",
+      "when": "1900"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Electrons occupy discrete orbits without radiating.",
+          "title": "Stationary states"
+        },
+        {
+          "note": "Transition energies reproduce the Balmer and Lyman series.",
+          "title": "Hydrogen spectrum"
+        },
+        {
+          "note": "a₀ = 4πε₀ħ²/(m_e e²) ≈ 0.529 Å sets atomic size.",
+          "title": "Bohr radius"
+        },
+        {
+          "note": "Quantum predictions approach classical physics for large n.",
+          "title": "Correspondence principle"
+        }
+      ],
+      "note": "Bohr proposed quantized stationary electron orbits with angular momentum L = nħ, with radiation emitted only in transitions hν = E_i − E_f.",
+      "people": [
+        "Niels Bohr"
+      ],
+      "title": "Bohr atom",
+      "when": "1913"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Observables are noncommuting matrices; [x,p] = iħ.",
+          "title": "Heisenberg matrix mechanics"
+        },
+        {
+          "note": "The wavefunction evolves according to iħ∂ψ/∂t = Ĥψ.",
+          "title": "Schrödinger equation"
+        },
+        {
+          "note": "|ψ|² gives the probability density for measurement outcomes.",
+          "title": "Born probability rule"
+        },
+        {
+          "note": "Dirac and Jordan formalized the equivalence of matrix and wave mechanics.",
+          "title": "Transformation theory"
+        }
+      ],
+      "note": "Heisenberg's matrix mechanics (1925) and Schrödinger's wave mechanics (1926) gave two equivalent formulations of quantum mechanics. The wave equation is iħ∂ψ/∂t = Ĥψ.",
+      "people": [
+        "Werner Heisenberg",
+        "Erwin Schrödinger",
+        "Max Born",
+        "Pascual Jordan"
+      ],
+      "title": "Matrix and wave mechanics",
+      "when": "1925-1926"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Δx Δp ≥ ħ/2 limits simultaneous knowledge.",
+          "title": "Position-momentum uncertainty"
+        },
+        {
+          "note": "ΔE Δt ≳ ħ/2 constrains lifetime and energy spread, though its interpretation is subtle.",
+          "title": "Energy-time uncertainty"
+        },
+        {
+          "note": "Bohr argued wave and particle descriptions are complementary, not simultaneously applicable.",
+          "title": "Complementarity"
+        },
+        {
+          "note": "Measurement inevitably disturbs conjugate variables in the Copenhagen view.",
+          "title": "Measurement disturbance"
+        }
+      ],
+      "note": "Heisenberg showed that noncommuting observables cannot both be sharply defined, with Δx Δp ≥ ħ/2.",
+      "people": [
+        "Werner Heisenberg"
+      ],
+      "title": "Uncertainty principle",
+      "when": "1927"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The first-order equation treats space and time on equal footing.",
+          "title": "Relativistic wave equation"
+        },
+        {
+          "note": "The four-component spinor automatically includes electron spin.",
+          "title": "Spin-1/2"
+        },
+        {
+          "note": "The equation has negative-energy solutions interpreted as positrons, discovered in 1932.",
+          "title": "Antimatter prediction"
+        },
+        {
+          "note": "Hole theory interpreted negative-energy states as antiparticles.",
+          "title": "Dirac sea"
+        }
+      ],
+      "note": "Dirac's relativistic wave equation iħ∂ψ/∂t = (cα·p + βmc²)ψ predicted spin-1/2 electrons and antimatter.",
+      "people": [
+        "Paul Dirac"
+      ],
+      "title": "Dirac equation",
+      "when": "1928"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The 1935 argument used entangled positions and momenta to question completeness.",
+          "title": "EPR paradox"
+        },
+        {
+          "note": "Schrödinger coined the term for nonseparable correlations between subsystems.",
+          "title": "Quantum entanglement"
+        },
+        {
+          "note": "Local hidden-variable correlations must satisfy bounds that quantum entanglement violates.",
+          "title": "Bell inequality"
+        },
+        {
+          "note": "The 1969 extension made Bell's theorem experimentally testable.",
+          "title": "CHSH inequality"
+        }
+      ],
+      "note": "Einstein, Podolsky and Rosen argued in 1935 that quantum mechanics is incomplete; Bell showed in 1964 that any local hidden-variable theory obeys inequalities violated by entangled states.",
+      "people": [
+        "Albert Einstein",
+        "Boris Podolsky",
+        "Nathan Rosen",
+        "Erwin Schrödinger",
+        "John Bell"
+      ],
+      "title": "Entanglement and Bell's theorem",
+      "when": "1935-1964"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The 1947 measurement of hydrogen 2S–2P splitting stimulated QED.",
+          "title": "Lamb shift"
+        },
+        {
+          "note": "Divergent parameters are absorbed into physical mass and charge.",
+          "title": "Renormalization"
+        },
+        {
+          "note": "Graphical perturbation rules organize QED scattering amplitudes.",
+          "title": "Feynman diagrams"
+        },
+        {
+          "note": "QED predicts g ≈ 2.0023 for the electron, matching experiment.",
+          "title": "Anomalous magnetic moment"
+        }
+      ],
+      "note": "Feynman, Schwinger and Tomonaga developed covariant QED calculations, and Dyson showed how to renormalize infinities into measured mass and charge. The electron anomalous moment a_e = (g − 2)/2 ≈ α/(2π) became a precision test.",
+      "people": [
+        "Richard Feynman",
+        "Julian Schwinger",
+        "Sin-Itiro Tomonaga",
+        "Freeman Dyson"
+      ],
+      "title": "QED renormalization",
+      "when": "1940s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Non-Abelian gauge fields have nonlinear self-interactions.",
+          "title": "Yang-Mills theory"
+        },
+        {
+          "note": "Demanding invariance under spacetime-dependent transformations generates gauge interactions.",
+          "title": "Local gauge invariance"
+        },
+        {
+          "note": "The f^{abc} term makes gauge bosons carry gauge charge.",
+          "title": "Non-Abelian field strength"
+        },
+        {
+          "note": "Unbroken gauge symmetry predicts massless bosons, motivating spontaneous symmetry breaking in the 1960s.",
+          "title": "Gauge boson masses"
+        }
+      ],
+      "note": "Yang and Mills generalized local U(1) gauge invariance to non-Abelian SU(2), introducing self-interacting gauge bosons. The field strength is F^a_{μν} = ∂_μ A^a_ν − ∂_ν A^a_μ + g f^{abc} A^b_μ A^c_ν.",
+      "people": [
+        "Chen-Ning Yang",
+        "Robert Mills"
+      ],
+      "title": "Gauge field theory",
+      "when": "1954"
+    }
+  ]
+}

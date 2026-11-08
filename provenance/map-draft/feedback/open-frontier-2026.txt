@@ -1,0 +1,39 @@
+Today is 8 November 2026. Several statements are out of date. Use these verified facts:
+
+Dark matter identity:
+- Replace the concept "Galactic rotation evidence" (it duplicates the astrophysics branch) with "Neutrino fog": in 2024 XENONnT and PandaX-4T detected solar ⁸B neutrinos through coherent elastic neutrino-nucleus scattering, the background floor that WIMP searches are now reaching.
+- WIMP limits: LZ (2024) reached about 2×10⁻⁴⁸ cm² near 40 GeV, not 10⁻⁴⁷.
+
+Dark energy and Hubble tension:
+- DESI DR2 (March 2025) combined with CMB and supernovae prefers evolving dark energy at 2.8–4.2σ, below the 5σ discovery threshold. DESI finished its five-year survey in April 2026; final results are expected in 2027.
+- Wendy Freedman's JWST distance-ladder analyses (CCHP) find H₀ near 70 km/s/Mpc, arguing the tension may be smaller than SH0ES suggests; say the tension is debated.
+- Rubin Observatory released its first images in 2025.
+
+Beyond the Standard Model:
+- Muon g-2 is out of date. Fermilab published its final result in June 2025 (127 ppb precision). The 2025 Theory Initiative prediction, based on lattice QCD, agrees with it, so the anomaly has largely gone; the remaining puzzle is a disagreement between lattice and data-driven (e⁺e⁻) estimates of the hadronic vacuum polarization.
+- Flavor anomalies: LHCb's R(K) and R(K*) moved back to the Standard Model value in December 2022; R(D)/R(D*) still show a tension of about 3σ.
+
+Neutrino masses and nature:
+- KATRIN's current limit is mβ < 0.45 eV (published 2025), not 0.8 eV.
+- Cosmology (DESI 2025 + CMB) gives Σmν below about 0.07 eV, pressing against the minimum of about 0.06 eV allowed by oscillations.
+- JUNO published its first results in Nature in June 2026: world-leading precision on the solar parameters sin²θ₁₂ and Δm²₂₁. It has not yet determined the mass ordering; global fits mildly favour normal ordering (about 2.2σ).
+- Add a fifth concept "Neutrino astronomy": IceCube's discovery of high-energy astrophysical neutrinos earned Francis Halzen the 2026 Nobel Prize in Physics. Add Francis Halzen to people.
+
+Strongly correlated quantum matter:
+- The concept "Strange metal" is fine here; keep it.
+- Replace the concept "High-Tc cuprates" with "Cuprate pairing puzzle": focus on what is unknown (mechanism, pseudogap, whether the Hubbard model superconducts), not on the 1986 discovery, which is in the condensed-matter branch.
+- Replace the concept "Fractional quantum Hall" (duplicates condensed matter) with "Fractional quantum anomalous Hall": in 2023–2024 fractional Hall states appeared without a magnetic field in twisted MoTe₂ and rhombohedral graphene.
+
+Quantum computing and simulation:
+- Neutral atoms are out of date: Harvard/QuEra ran 48 logical qubits (2023), and Caltech trapped about 6,100 atoms in one array (2025). Gate fidelity at scale is still the challenge.
+- Quantum advantage: Google's 2025 "Quantum Echoes" (out-of-time-order correlator) experiment claims a verifiable speed-up; practical advantage is still debated.
+- Mention in the note that the 2025 Nobel Prize (Clarke, Devoret, Martinis) honoured macroscopic quantum effects in electrical circuits, the basis of superconducting qubits. Add Michel Devoret to people.
+
+Controlled fusion energy:
+- NIF's record is now 8.6 MJ from 2.08 MJ of laser energy (April 2025), a target gain above 4. Keep the 2022 ignition as the first milestone.
+- JET's 69 MJ D–T record came from its final campaign in late 2023 (announced February 2024).
+- Long-pulse records: EAST held a high-confinement plasma for 1,066 s (January 2025) and WEST held plasma for 1,337 s (February 2025). Put these in the "Tokamaks and ITER" concept.
+- People should be physicists who shaped the field, not current executives. Replace Kim Budil, Bernard Bigot and Bob Mumgaard with John Lawson (Lawson criterion, 1955) and Lyman Spitzer (stellarator, 1951); keep Sakharov and Tamm.
+
+Machine learning in physics:
+- Add to the note: the 2024 Nobel Prize in Physics went to John Hopfield and Geoffrey Hinton for foundational work on artificial neural networks.

@@ -1,0 +1,167 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "A body persists in uniform motion unless acted on by a net force, which implicitly defines the inertial frames where the laws hold.",
+          "title": "First law: inertia"
+        },
+        {
+          "note": "The rate of change of momentum equals the applied force, so trajectories follow from integrating the equations of motion.",
+          "title": "Second law F = dp/dt"
+        },
+        {
+          "note": "Forces between two bodies are equal and opposite, which underlies momentum conservation and the center-of-mass theorem.",
+          "title": "Third law: action-reaction"
+        },
+        {
+          "note": "The laws are form-invariant under uniform relative motion, so no experiment within a closed inertial frame reveals absolute rest.",
+          "title": "Galilean relativity"
+        }
+      ],
+      "note": "The Principia states three laws: inertia, force proportional to change of motion, and equal and opposite action-reaction, giving F = dp/dt (commonly F = ma). Together they define inertial frames and reduce mechanics to solving differential equations.",
+      "people": [
+        "Isaac Newton"
+      ],
+      "title": "Newton's laws",
+      "when": "1687"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The 1/r² force yields closed conic-section orbits, uniting terrestrial fall and celestial motion under one rule.",
+          "title": "Inverse-square law"
+        },
+        {
+          "note": "Equal areas and the harmonic relation T² ∝ a³ follow directly from the inverse-square force law.",
+          "title": "Kepler's laws derived"
+        },
+        {
+          "note": "A spherically symmetric mass attracts external points as if all its mass were at the center, and exerts no net force inside a hollow shell.",
+          "title": "Shell theorem"
+        },
+        {
+          "note": "The 1798 experiment measured the tiny gravitational attraction between lead spheres, giving the first value of G and the mass of the Earth.",
+          "title": "Cavendish torsion balance"
+        }
+      ],
+      "note": "Newton proposed that every mass attracts every other with F = G m₁m₂/r², deriving Kepler's elliptical orbits and the Moon's fall from one universal law. Cavendish's torsion-balance experiment (1798) later weighed the Earth by measuring G.",
+      "people": [
+        "Isaac Newton",
+        "Henry Cavendish"
+      ],
+      "title": "Universal gravitation",
+      "when": "1687"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Johann Bernoulli's 1696 challenge—the fastest descent curve—is the cycloid and launched the variational method.",
+          "title": "Brachistochrone problem"
+        },
+        {
+          "note": "Setting the first variation of an action integral to zero yields the stationarity condition that later becomes the equation of motion.",
+          "title": "Euler-Lagrange equation"
+        },
+        {
+          "note": "Shortest or extremal paths on curved surfaces are found by the same variational machinery, linking mechanics to geometry.",
+          "title": "Geodesics"
+        },
+        {
+          "note": "The cycloid is also the curve on which a bead falls in equal times regardless of starting point, an early variational result.",
+          "title": "Tautochrone curve"
+        }
+      ],
+      "note": "Euler's 1744 treatise turned extremum problems for curves into differential equations, later streamlined by Lagrange into the Euler-Lagrange equation d/dt(∂L/∂q̇) − ∂L/∂q = 0. The method seeks curves making an integral δ∫L dt stationary rather than optimizing a function.",
+      "people": [
+        "Johann Bernoulli",
+        "Leonhard Euler",
+        "Joseph-Louis Lagrange"
+      ],
+      "title": "Calculus of variations",
+      "when": "1744"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Torque equals the rate of change of angular momentum in the body frame, producing coupled equations for the angular velocities.",
+          "title": "Euler's rotation equations"
+        },
+        {
+          "note": "A symmetric tensor relating angular velocity to angular momentum, diagonalized by choosing principal axes.",
+          "title": "Moment of inertia tensor"
+        },
+        {
+          "note": "Inertial forces plus applied forces do no virtual work, converting constrained dynamics into statics-like balance equations.",
+          "title": "D'Alembert's principle"
+        },
+        {
+          "note": "Rotation about the axis of intermediate moment of inertia is unstable, now familiar as the tennis-racket or Dzhanibekov effect.",
+          "title": "Intermediate axis instability"
+        }
+      ],
+      "note": "Euler's equations I₁ω̇₁ + (I₃ − I₂)ω₂ω₃ = M₁ (and cyclic permutations) describe rotation of a rigid body about its principal axes. D'Alembert's principle (1743) supplied a general way to handle constraints in extended bodies.",
+      "people": [
+        "Leonhard Euler",
+        "Jean le Rond d'Alembert",
+        "Alexis Clairaut"
+      ],
+      "title": "Rigid-body dynamics",
+      "when": "1750s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Any set of independent parameters describing the configuration replaces Cartesian coordinates and automatically respects holonomic constraints.",
+          "title": "Generalized coordinates"
+        },
+        {
+          "note": "Physical paths extremize the action S = ∫L dt, from which the equations of motion follow as stationarity conditions.",
+          "title": "Action principle"
+        },
+        {
+          "note": "A coordinate absent from L has a conjugate momentum that is constant, an early form of symmetry-conservation reasoning.",
+          "title": "Cyclic coordinates and conservation"
+        },
+        {
+          "note": "Non-holonomic or non-conservative constraints are enforced by added multiplier terms in the equations of motion.",
+          "title": "Lagrange multipliers"
+        }
+      ],
+      "note": "Lagrange's Mécanique analytique recast all of mechanics in generalized coordinates using L = T − V and the Euler-Lagrange equations, with no explicit forces needed. Constraints are built in, and conserved quantities follow from symmetries of the Lagrangian.",
+      "people": [
+        "Joseph-Louis Lagrange"
+      ],
+      "title": "Lagrangian mechanics",
+      "when": "1788"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Positions and momenta form a 2n-dimensional space whose points specify complete states and whose flow preserves volume (Liouville).",
+          "title": "Phase space"
+        },
+        {
+          "note": "The pair q̇ = ∂H/∂p, ṗ = −∂H/∂q gives symmetric first-order dynamics generated by the Hamiltonian function.",
+          "title": "Hamilton's equations"
+        },
+        {
+          "note": "Introduced by Poisson in 1809, {f, g} encodes time evolution via ḟ = {f, H} and identifies conserved quantities.",
+          "title": "Poisson brackets"
+        },
+        {
+          "note": "A canonical transformation makes H depend only on new momenta, reducing the dynamics to a single partial differential equation for the action.",
+          "title": "Hamilton-Jacobi equation"
+        }
+      ],
+      "note": "Hamilton's 1833 reformulation replaces second-order equations with first-order ones, q̇ = ∂H/∂p and ṗ = −∂H/∂q, for H = Σp q̇ − L. The flow becomes a geometry on phase space, leading to canonical transformations and the Hamilton-Jacobi equation.",
+      "people": [
+        "William Rowan Hamilton",
+        "Carl Gustav Jacob Jacobi",
+        "Siméon Denis Poisson"
+      ],
+      "title": "Hamiltonian mechanics",
+      "when": "1833"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Below a critical temperature, a superconductor carries current without measurable resistive dissipation.",
+          "title": "Zero resistance"
+        },
+        {
+          "note": "A superconductor expels magnetic flux from its interior, distinguishing it from a perfect conductor.",
+          "title": "Meissner effect"
+        },
+        {
+          "note": "Phenomenological electrodynamics relates supercurrent to the vector potential and predicts a penetration depth λ_L.",
+          "title": "London equations"
+        },
+        {
+          "note": "Abrikosov (1957) predicted quantized magnetic flux vortices in type-II superconductors above the lower critical field.",
+          "title": "Type-II vortices"
+        }
+      ],
+      "note": "Onnes discovered zero resistance in mercury below 4.2 K in 1911, and the Meissner–Ochsenfeld effect (1933) showed flux expulsion, captured by the London equation ∇²B = B/λ_L².",
+      "people": [
+        "Heike Kamerlingh Onnes",
+        "Walther Meissner",
+        "Robert Ochsenfeld",
+        "Fritz London",
+        "Heinz London",
+        "Alexei Abrikosov"
+      ],
+      "title": "Superconductivity",
+      "when": "1911"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Periodic potentials produce Bloch waves whose crystal momentum k is a good quantum number.",
+          "title": "Bloch theorem"
+        },
+        {
+          "note": "Bragg scattering at zone boundaries opens gaps and organizes electronic states into bands.",
+          "title": "Band gap and Brillouin zone"
+        },
+        {
+          "note": "Near a band extremum, an electron responds as a free particle with mass m* set by band curvature.",
+          "title": "Effective mass"
+        },
+        {
+          "note": "Wilson (1931) distinguished metals from insulators by partially filled versus filled bands.",
+          "title": "Wilson metal-insulator classification"
+        }
+      ],
+      "note": "Bloch's theorem (1928) shows that electrons in a periodic potential have wavefunctions ψ_k(r) = e^{ik·r} u_k(r), so allowed energies form bands separated by gaps. Wilson's 1931 classification used filled and empty bands to explain metals, insulators and semiconductors.",
+      "people": [
+        "Felix Bloch",
+        "Alan H. Wilson",
+        "Rudolf Peierls"
+      ],
+      "title": "Band theory and Bloch theorem",
+      "when": "1928"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Donor or acceptor impurities make n-type or p-type semiconductors with tunable conductivity.",
+          "title": "Doping and carrier type"
+        },
+        {
+          "note": "A depletion region and built-in field give asymmetric current–voltage rectification.",
+          "title": "p–n junction"
+        },
+        {
+          "note": "The first transistor used two closely spaced metal contacts on germanium to amplify signals.",
+          "title": "Point-contact transistor"
+        },
+        {
+          "note": "The metal–oxide–semiconductor field-effect transistor became the scalable building block of integrated circuits.",
+          "title": "MOSFET scaling"
+        }
+      ],
+      "note": "Doping controls electron or hole carriers, and a p–n junction rectifies current according to the Shockley diode equation I = I₀ (e^{eV/k_BT} − 1). Bardeen, Brattain and Shockley's 1947 point-contact transistor at Bell Labs launched solid-state electronics.",
+      "people": [
+        "John Bardeen",
+        "Walter Brattain",
+        "William Shockley",
+        "Alan H. Wilson"
+      ],
+      "title": "Semiconductors and transistor",
+      "when": "1947"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Two electrons near the Fermi surface form a bound pair for an arbitrarily weak attractive interaction.",
+          "title": "Cooper pairs"
+        },
+        {
+          "note": "Lattice polarization screens Coulomb repulsion and provides a retarded attraction between electrons.",
+          "title": "Phonon-mediated attraction"
+        },
+        {
+          "note": "Breaking a pair costs energy Δ, producing an activated excitation spectrum and exponential specific heat.",
+          "title": "BCS energy gap"
+        },
+        {
+          "note": "T_c depends on ionic mass as M^{−α}, supporting the phonon mechanism.",
+          "title": "Isotope effect"
+        }
+      ],
+      "note": "Bardeen, Cooper and Schrieffer (1957) showed that a phonon-mediated attraction binds electrons into Cooper pairs, which condense into a gapped ground state. The weak-coupling gap is Δ ≈ 2ħω_D exp[−1/(N(0)V)].",
+      "people": [
+        "John Bardeen",
+        "Leon Cooper",
+        "Robert Schrieffer"
+      ],
+      "title": "BCS theory",
+      "when": "1957"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Systems sharing dimension and symmetry have the same critical exponents.",
+          "title": "Universality classes"
+        },
+        {
+          "note": "Near T_c, the free energy is a homogeneous function of reduced temperature and field.",
+          "title": "Scaling hypothesis"
+        },
+        {
+          "note": "Iterative coarse-graining flows to fixed points and yields scaling laws.",
+          "title": "Wilson renormalization group"
+        },
+        {
+          "note": "Wilson and Fisher computed exponents near four dimensions in powers of ε = 4 − d.",
+          "title": "Epsilon expansion"
+        }
+      ],
+      "note": "Continuous phase transitions show power-law divergences such as ξ ∝ |T − T_c|^{−ν}, with exponents set by universality rather than microscopic details. Wilson's renormalization group (1971) explains this via fixed points of scale transformations.",
+      "people": [
+        "Kenneth G. Wilson",
+        "Leo Kadanoff",
+        "Michael E. Fisher",
+        "Lars Onsager"
+      ],
+      "title": "Phase transitions and RG",
+      "when": "1970s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "von Klitzing observed exact σ_xy = ν e²/h plateaus in 1980.",
+          "title": "Integer quantum Hall effect"
+        },
+        {
+          "note": "Tsui and Störmer observed ν = 1/3 in 1982; Laughlin's wavefunction (1983) described it.",
+          "title": "Fractional quantum Hall effect"
+        },
+        {
+          "note": "Cyclotron motion is quantized as E_n = ħω_c(n + 1/2).",
+          "title": "Landau levels"
+        },
+        {
+          "note": "Chiral edge modes and a Chern number make the quantization robust against disorder.",
+          "title": "Topological edge states"
+        }
+      ],
+      "note": "In a strong perpendicular magnetic field, a two-dimensional electron gas exhibits quantized Hall conductance σ_xy = ν e²/h and vanishing longitudinal resistance. Integer (1980) and fractional (1982) plateaus arise from Landau-level filling, disorder, and topological edge states.",
+      "people": [
+        "Klaus von Klitzing",
+        "Horst Störmer",
+        "Daniel Tsui",
+        "Robert Laughlin"
+      ],
+      "title": "Quantum Hall effect",
+      "when": "1980"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Layered copper oxides show high Tc and strong electronic anisotropy.",
+          "title": "Cuprate discovery"
+        },
+        {
+          "note": "Phase-sensitive measurements indicate a sign-changing d_{x²−y²} gap.",
+          "title": "d-wave pairing"
+        },
+        {
+          "note": "A partial gap persists above Tc, suggesting competing or precursor order.",
+          "title": "Pseudogap"
+        },
+        {
+          "note": "Iron-based superconductors (Hosono, 2008) and high-pressure hydrides such as H₃S at 203 K (Eremets, 2015) extended the search for higher Tc.",
+          "title": "Beyond cuprates"
+        }
+      ],
+      "note": "Bednorz and Müller discovered superconductivity near 35 K in La–Ba–Cu–O in 1986, and cuprates soon exceeded the 77 K boiling point of nitrogen. The pairing mechanism and pseudogap remain central open questions.",
+      "people": [
+        "Georg Bednorz",
+        "K. Alex Müller",
+        "Paul Chu",
+        "Hideo Hosono",
+        "Mikhail Eremets"
+      ],
+      "title": "High-Tc cuprates",
+      "when": "1986"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The honeycomb lattice gives linear bands at the K and K′ points.",
+          "title": "Graphene Dirac cones"
+        },
+        {
+          "note": "Bulk band inversion yields conducting edge or surface states protected by symmetry.",
+          "title": "Topological insulators"
+        },
+        {
+          "note": "A bulk Chern or Z₂ invariant counts the protected boundary modes.",
+          "title": "Bulk-boundary correspondence"
+        },
+        {
+          "note": "Twisted bilayer graphene hosts correlated insulators and superconductivity near the magic angle.",
+          "title": "Moiré flat bands"
+        }
+      ],
+      "note": "Graphene was isolated in 2004, and its low-energy electrons obey H = v_F σ·k, a massless Dirac equation. Topological invariants then classified gapped phases with protected edge states, while twisted bilayers (2018) produced flat bands and correlated phases.",
+      "people": [
+        "Andre Geim",
+        "Konstantin Novoselov",
+        "Charles Kane",
+        "Eugene Mele",
+        "Pablo Jarillo-Herrero"
+      ],
+      "title": "Topological and 2D materials",
+      "when": "2004–present"
+    }
+  ]
+}

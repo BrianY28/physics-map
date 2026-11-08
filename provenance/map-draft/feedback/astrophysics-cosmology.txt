@@ -1,0 +1,6 @@
+1. Stellar structure: stars are supported by gas pressure in hydrostatic equilibrium, not "radiative pressure balance". Eddington's 1926 models treated stars as gas spheres whose energy is carried outward by radiation. Fix the note.
+2. B²FH concept: elements heavier than iron come from slow neutron capture (s-process) in stars AND rapid neutron capture (r-process) in explosive events; the 2017 kilonova GW170817 confirmed r-process production in neutron-star mergers. Fix the concept.
+3. Dark matter evidence: the concept "Nature of dark matter" duplicates the frontier branch. Replace it with "Bullet Cluster": in 2006 lensing showed the mass separated from the hot gas in a colliding cluster, strong direct evidence for dark matter.
+4. Compact stars and black holes: pulsars were discovered by Jocelyn Bell Burnell and Antony Hewish (1967); add Jocelyn Bell Burnell to people and name her in the concept. The EHT also imaged Sgr A* in 2022.
+5. Cosmic microwave background: COBE/FIRAS measured the blackbody spectrum in 1990; COBE/DMR found the anisotropies in 1992. Fix the note and the "COBE blackbody spectrum" concept (it says 1992).
+6. Dark energy and ΛCDM: the concept "Hubble tension" duplicates the frontier branch. Replace it with "Baryon acoustic oscillations": the 2005 detection (SDSS and 2dFGRS) gave a standard ruler for expansion history.

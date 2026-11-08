@@ -1,0 +1,136 @@
+{
+ "nodes": [
+  {
+   "id": "superconductivity",
+   "sources": [
+    {
+     "citation": "Kamerlingh Onnes, H. (1911). Further experiments with liquid helium. D. On the change of the electrical resistance of pure metals at very low temperatures, etc. V. The disappearance of the resistance of mercury. Communications from the Physical Laboratory of the University of Leiden, No. 122b.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Meissner, W., & Ochsenfeld, R. (1933). Ein neuer Effekt bei Eintritt der Supraleitfähigkeit. Naturwissenschaften, 21, 787–788.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Tinkham, M. (1996). Introduction to Superconductivity (2nd ed.). McGraw-Hill.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "band-theory-and-bloch-theorem",
+   "sources": [
+    {
+     "citation": "Bloch, F. (1928). Über die Quantenmechanik der Elektronen in Kristallgittern. Zeitschrift für Physik, 52, 555–600.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Wilson, A. H. (1931). The theory of electronic semi-conductors. Proceedings of the Royal Society of London A, 133, 458–491.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Ashcroft, N. W., & Mermin, N. D. (1976). Solid State Physics. Saunders College Publishing.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "semiconductors-and-transistor",
+   "sources": [
+    {
+     "citation": "Bardeen, J., & Brattain, W. H. (1948). The transistor, a semi-conductor triode. Physical Review, 74, 230–231.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Shockley, W. (1949). The theory of p-n junctions in semiconductors and p-n junction transistors. Bell System Technical Journal, 28, 435–489.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Sze, S. M., & Ng, K. K. (2007). Physics of Semiconductor Devices (3rd ed.). Wiley.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "bcs-theory",
+   "sources": [
+    {
+     "citation": "Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Theory of superconductivity. Physical Review, 108, 1175–1204.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Tinkham, M. (1996). Introduction to Superconductivity (2nd ed.). McGraw-Hill.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "phase-transitions-and-rg",
+   "sources": [
+    {
+     "citation": "Wilson, K. G. (1971). Renormalization group and critical phenomena. I. Renormalization group and the Kadanoff scaling picture. Physical Review B, 4, 3174–3183.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Wilson, K. G., & Kogut, J. (1974). The renormalization group and the ε expansion. Physics Reports, 12, 75–199.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Onsager, L. (1944). Crystal statistics. I. A two-dimensional model with an order-disorder transition. Physical Review, 65, 117–149.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "quantum-hall-effect",
+   "sources": [
+    {
+     "citation": "von Klitzing, K., Dorda, G., & Pepper, M. (1980). New method for high-accuracy determination of the fine-structure constant based on quantized Hall resistance. Physical Review Letters, 45, 494–497.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Tsui, D. C., Störmer, H. L., & Gossard, A. C. (1982). Two-dimensional magnetotransport in the extreme quantum limit. Physical Review Letters, 48, 1559–1562.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Laughlin, R. B. (1983). Anomalous quantum Hall effect: An incompressible quantum fluid with fractionally charged excitations. Physical Review Letters, 50, 1395–1398.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "high-tc-cuprates",
+   "sources": [
+    {
+     "citation": "Bednorz, J. G., & Müller, K. A. (1986). Possible high Tc superconductivity in the Ba–La–Cu–O system. Zeitschrift für Physik B, 64, 189–193.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Wu, M. K., Ashburn, J. R., Torng, C. J., et al. (1987). Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure. Physical Review Letters, 58, 908–910.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Keimer, B., Kivelson, S. A., Norman, M. R., et al. (2015). From quantum matter to high-temperature superconductivity in copper oxides. Nature, 518, 179–186.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "topological-and-2d-materials",
+   "sources": [
+    {
+     "citation": "Novoselov, K. S., Geim, A. K., Morozov, S. V., et al. (2004). Electric field effect in atomically thin carbon films. Science, 306, 666–669.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Kane, C. L., & Mele, E. J. (2005). Quantum spin Hall effect in graphene. Physical Review Letters, 95, 226801.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Cao, Y., Fatemi, V., Demir, A., et al. (2018). Unconventional superconductivity in magic-angle graphene superlattices. Nature, 556, 43–50.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

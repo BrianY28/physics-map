@@ -1,0 +1,157 @@
+{
+ "nodes": [
+  {
+   "id": "quantum-gravity",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie [The Foundation of the General Theory of Relativity]. Annalen der Physik, 49, 769–822.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Maldacena, J. M. (1998). The large N limit of superconformal field theories and supergravity. Advances in Theoretical and Mathematical Physics, 2, 231–252.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Ashtekar, A., & Lewandowski, J. (2004). Background independent quantum gravity: A status report. Classical and Quantum Gravity, 21, R53–R152.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "dark-matter-identity",
+   "sources": [
+    {
+     "citation": "Zwicky, F. (1933). Die Rotverschiebung von extragalaktischen Nebeln [The redshift of extragalactic nebulae]. Helvetica Physica Acta, 6, 110–127.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Rubin, V. C., & Ford, W. K., Jr. (1970). Rotation of the Andromeda Nebula from a spectroscopic survey of emission regions. Astrophysical Journal, 159, 379–403.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Aalbers, J., et al. (2024). Dark matter search results from 4.2 tonne-years of exposure of the LUX-ZEPLIN (LZ) experiment. Physical Review Letters, 133, 191002.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "dark-energy-and-hubble-tension",
+   "sources": [
+    {
+     "citation": "Riess, A. G., Filippenko, A. V., Challis, P., et al. (1998). Observational evidence from supernovae for an accelerating universe and a cosmological constant. Astronomical Journal, 116, 1009–1038.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Perlmutter, S., Aldering, G., Goldhaber, G., et al. (1999). Measurements of Ω and Λ from 42 high-redshift supernovae. Astrophysical Journal, 517, 565–586.",
+     "confidence": "high"
+    },
+    {
+     "citation": "DESI Collaboration, Adame, A. G., et al. (2025). DESI DR2 results II: Measurements of baryon acoustic oscillations and cosmological constraints. Physical Review D.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "beyond-the-standard-model",
+   "sources": [
+    {
+     "citation": "Higgs, P. W. (1964). Broken symmetries and the masses of gauge bosons. Physical Review Letters, 13, 508–509.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Englert, F., & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. Physical Review Letters, 13, 321–323.",
+     "confidence": "high"
+    },
+    {
+     "citation": "ATLAS Collaboration, Aad, G., Abajyan, T., Abbott, B., et al. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. Physics Letters B, 716, 1–29.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "neutrino-masses-and-nature",
+   "sources": [
+    {
+     "citation": "Fukuda, Y., Hayakawa, T., Ichihara, E., et al. (1998). Evidence for oscillation of atmospheric neutrinos. Physical Review Letters, 81, 1562–1567.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Ahmad, Q. R., Allen, R. C., Andersen, T. C., et al. (2001). Measurement of the rate of ν_e + d → p + p + e⁻ interactions produced by ⁸B solar neutrinos at the Sudbury Neutrino Observatory. Physical Review Letters, 87, 071301.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Gonzalez-Garcia, M. C., & Maltoni, M. (2008). Phenomenology with massive neutrinos. Physics Reports, 460, 1–129.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "strongly-correlated-quantum-matter",
+   "sources": [
+    {
+     "citation": "Bednorz, J. G., & Müller, K. A. (1986). Possible high T_c superconductivity in the Ba−La−Cu−O system. Zeitschrift für Physik B Condensed Matter, 64, 189–193.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Lee, P. A., Nagaosa, N., & Wen, X.-G. (2006). Doping a Mott insulator: Physics of high-temperature superconductivity. Reviews of Modern Physics, 78, 17–85.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Cao, Y., Fatemi, V., Fang, S., et al. (2018). Unconventional superconductivity in magic-angle graphene superlattices. Nature, 556, 43–50.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "quantum-computing-and-simulation",
+   "sources": [
+    {
+     "citation": "Feynman, R. P. (1982). Simulating physics with computers. International Journal of Theoretical Physics, 21, 467–488.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Shor, P. W. (1997). Polynomial-time algorithms for prime factorization and discrete logarithms on a quantum computer. SIAM Journal on Computing, 26, 1484–1509.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Google Quantum AI and Collaborators (2025). Quantum error correction below the surface code threshold. Nature, 638, 920–926.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "controlled-fusion-energy",
+   "sources": [
+    {
+     "citation": "Lawson, J. D. (1957). Some criteria for a power producing thermonuclear reactor. Proceedings of the Physical Society. Section B, 70, 6–10.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Abu-Shawareb, H., Acree, R., Adams, P., et al. (2024). Achievement of target gain larger than unity in an inertial fusion experiment. Physical Review Letters, 132, 065102.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Wesson, J. (2011). Tokamaks (4th ed.). Oxford University Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "machine-learning-in-physics",
+   "sources": [
+    {
+     "citation": "Hopfield, J. J. (1982). Neural networks and physical systems with emergent collective computational abilities. Proceedings of the National Academy of Sciences, 79, 2554–2558.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Carleo, G., & Troyer, M. (2017). Solving the quantum many-body problem with artificial neural networks. Science, 355, 602–606.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Carleo, G., Cirac, I., Cranmer, K., et al. (2019). Machine learning and the physical sciences. Reviews of Modern Physics, 91, 045002.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

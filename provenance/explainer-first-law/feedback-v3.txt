@@ -1,0 +1,5 @@
+Review of v3: both polish fixes are confirmed. One physics-precision issue remains in Plate III, Passenger view. Change nothing else.
+
+The bus frame is accelerating only while the bus brakes (0 to 0.8 s of simulated time). After the bus stops, the bus frame is inertial again and the ball coasts at a constant 4.0 m/s relative to the floor until it reaches the wall.
+1. The canvas caption always reads "BUS FRAME (ACCELERATING)". Show "BUS FRAME (ACCELERATING)" only while the bus is braking, and "BUS FRAME (AT REST, INERTIAL AGAIN)" after the bus has stopped.
+2. The Passenger-view end note says the ball was "accelerating with no force acting on it, until it hit the front wall". Make it precise: while the bus braked, the ball accelerated forward relative to the floor with no force on it, which is what shows the braking bus is not an inertial frame; once the bus stopped, the ball coasted at a constant 4.0 m/s until the front wall stopped it.

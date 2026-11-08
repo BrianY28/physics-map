@@ -1,0 +1,115 @@
+{
+ "nodes": [
+  {
+   "id": "special-relativity",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1905). Zur Elektrodynamik bewegter Körper [On the electrodynamics of moving bodies]. Annalen der Physik, 322(10), 891–921.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Poincaré, H. (1906). Sur la dynamique de l'électron [On the dynamics of the electron]. Rendiconti del Circolo Matematico di Palermo, 21, 129–176.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Lorentz, H. A. (1904). Electromagnetic phenomena in a system moving with any velocity smaller than that of light. Proceedings of the Royal Netherlands Academy of Arts and Sciences, 6, 809–831.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "mass-energy-equivalence",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1905). Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig? [Does the inertia of a body depend upon its energy content?]. Annalen der Physik, 323(13), 639–641.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Okun, L. B. (1989). The concept of mass. Physics Today, 42(6), 31–36.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "minkowski-spacetime",
+   "sources": [
+    {
+     "citation": "Minkowski, H. (1909). Raum und Zeit [Space and time]. Physikalische Zeitschrift, 10, 104–111.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Misner, C. W., Thorne, K. S., & Wheeler, J. A. (1973). Gravitation. W. H. Freeman.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "general-relativity",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1915). Die Feldgleichungen der Gravitation. Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin, 844–847.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Einstein, A. (1916). Die Grundlage der allgemeinen Relativitätstheorie. Annalen der Physik, 354(7), 769–822.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Wald, R. M. (1984). General Relativity. University of Chicago Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "schwarzschild-solution",
+   "sources": [
+    {
+     "citation": "Schwarzschild, K. (1916). Über das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie. Sitzungsberichte der Königlich Preußischen Akademie der Wissenschaften zu Berlin, 189–196.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Finkelstein, D. (1958). Past-future asymmetry of the gravitational field of a point particle. Physical Review, 110(4), 965–967.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Chandrasekhar, S. (1983). The Mathematical Theory of Black Holes. Oxford University Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "tests-of-general-relativity",
+   "sources": [
+    {
+     "citation": "Dyson, F. W., Eddington, A. S., & Davidson, C. (1920). A determination of the deflection of light by the Sun's gravitational field, from observations made at the total eclipse of May 29, 1919. Philosophical Transactions of the Royal Society A, 220, 291–333.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Shapiro, I. I. (1964). Fourth test of general relativity. Physical Review Letters, 13(26), 789–791.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Will, C. M. (2014). The confrontation between general relativity and experiment. Living Reviews in Relativity, 17, 4.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "gravitational-waves",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1916). Näherungsweise Integration der Feldgleichungen der Gravitation. Sitzungsberichte der Preußischen Akademie der Wissenschaften zu Berlin, 688–696.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Abbott, B. P., et al. (2016). Observation of gravitational waves from a binary black hole merger. Physical Review Letters, 116(6), 061102.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Abbott, B. P., et al. (2017). GW170817: Observation of gravitational waves from a binary neutron star inspiral. Physical Review Letters, 119(16), 161101.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

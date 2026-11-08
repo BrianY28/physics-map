@@ -1,0 +1,237 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "In 1896 Becquerel found that uranium salts emit penetrating rays without external excitation.",
+          "title": "Becquerel's uranium rays"
+        },
+        {
+          "note": "Marie and Pierre Curie discovered polonium and radium in 1898, showing radioactivity is an atomic property.",
+          "title": "Curie radium discovery"
+        },
+        {
+          "note": "Rutherford classified alpha and beta rays by 1899, and Villard identified gamma rays in 1900.",
+          "title": "Alpha, beta, gamma rays"
+        },
+        {
+          "note": "The decay rate proportional to N gives N = N₀e^(−λt) and a fixed half-life for each nuclide.",
+          "title": "Exponential decay law"
+        }
+      ],
+      "note": "Becquerel discovered penetrating radiation from uranium salts in 1896, and the Curies discovered polonium and radium in 1898. The decay law N = N₀e^(−λt) describes the random decay of unstable nuclei, with half-life t₁/₂ = ln 2/λ.",
+      "people": [
+        "Henri Becquerel",
+        "Marie Curie",
+        "Pierre Curie",
+        "Ernest Rutherford"
+      ],
+      "title": "Radioactivity",
+      "when": "1896"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Geiger and Marsden observed large-angle alpha deflections from thin metal foils in 1909.",
+          "title": "Gold-foil scattering"
+        },
+        {
+          "note": "The Coulomb scattering cross-section explains the observed angular distribution and the failure of Thomson's model.",
+          "title": "Rutherford scattering formula"
+        },
+        {
+          "note": "The nuclear radius is about 10⁻¹⁵ m, some 10⁴–10⁵ times smaller than an atomic radius.",
+          "title": "Tiny nuclear size"
+        },
+        {
+          "note": "Electrons orbit a compact nucleus, though classical stability problems motivated quantum atomic theory.",
+          "title": "Planetary atom model"
+        }
+      ],
+      "note": "Rutherford interpreted Geiger-Marsden alpha scattering as deflection by a tiny, massive, positively charged nucleus, with most alpha particles passing through and a few scattering at large angles. The Coulomb scattering probability scales approximately as 1/sin⁴(θ/2).",
+      "people": [
+        "Ernest Rutherford",
+        "Hans Geiger",
+        "Ernest Marsden"
+      ],
+      "title": "Rutherford nucleus",
+      "when": "1911"
+    },
+    {
+      "concepts": [
+        {
+          "note": "In 1930 Pauli proposed a hidden neutral particle to explain the continuous beta-decay energy spectrum.",
+          "title": "Pauli neutrino hypothesis"
+        },
+        {
+          "note": "In 1932 Chadwick identified the neutral nuclear constituent with mass close to the proton.",
+          "title": "Chadwick neutron"
+        },
+        {
+          "note": "In 1934 Fermi treated beta decay as a weak four-fermion interaction.",
+          "title": "Fermi beta-decay theory"
+        },
+        {
+          "note": "In 1956 Reines and Cowan observed reactor antineutrinos via inverse beta decay.",
+          "title": "Cowan-Reines detection"
+        }
+      ],
+      "note": "Pauli postulated a neutral, nearly massless particle to preserve energy and momentum in beta decay, while Chadwick's neutron and Fermi's theory established the nuclear ingredients. Neutrinos were directly detected in 1956 through inverse beta decay, consistent with n → p + e⁻ + ν̄_e.",
+      "people": [
+        "Wolfgang Pauli",
+        "James Chadwick",
+        "Enrico Fermi",
+        "Frederick Reines",
+        "Clyde Cowan"
+      ],
+      "title": "Neutron and neutrino",
+      "when": "1930-1956"
+    },
+    {
+      "concepts": [
+        {
+          "note": "In 1938 they found barium among neutron-irradiated uranium products.",
+          "title": "Hahn-Strassmann fission"
+        },
+        {
+          "note": "In 1939 they interpreted fission as liquid-drop splitting with large energy release.",
+          "title": "Meitner-Frisch explanation"
+        },
+        {
+          "note": "Bethe's pp chain and CNO cycle in 1938-39 explained hydrogen fusion in stars.",
+          "title": "Stellar fusion cycles"
+        },
+        {
+          "note": "Fission neutrons can sustain a self-amplifying nuclear chain reaction.",
+          "title": "Chain reaction"
+        }
+      ],
+      "note": "Neutron bombardment of uranium produced barium and lighter elements, which Hahn and Strassmann reported as fission and Meitner and Frisch explained via the liquid-drop model and mass-energy conversion. Bethe's contemporaneous work identified fusion reactions as stellar energy sources, with E = Δm c² governing the energy release.",
+      "people": [
+        "Otto Hahn",
+        "Fritz Strassmann",
+        "Lise Meitner",
+        "Otto Frisch",
+        "Hans Bethe"
+      ],
+      "title": "Fission and fusion",
+      "when": "1938-1939"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Gell-Mann and Ne'eman classified hadrons into SU(3) multiplets in 1961.",
+          "title": "Eightfold Way"
+        },
+        {
+          "note": "Quarks carry charges +2/3 or −1/3 and initially came in three flavors.",
+          "title": "Fractional quark charges"
+        },
+        {
+          "note": "Baryons are three-quark states and mesons are quark-antiquark pairs.",
+          "title": "Hadron composition"
+        },
+        {
+          "note": "Late-1960s SLAC scattering revealed pointlike charged constituents inside protons.",
+          "title": "Deep inelastic evidence"
+        }
+      ],
+      "note": "Gell-Mann and Zweig independently proposed that mesons and baryons are composites of fractionally charged up, down and strange quarks, explaining SU(3) multiplet patterns. The proton is uud, giving charge +2/3 + 2/3 − 1/3 = +1.",
+      "people": [
+        "Murray Gell-Mann",
+        "George Zweig"
+      ],
+      "title": "Quark model",
+      "when": "1964"
+    },
+    {
+      "concepts": [
+        {
+          "note": "In 1961 Glashow proposed the electroweak gauge group SU(2) × U(1).",
+          "title": "Glashow SU(2)×U(1)"
+        },
+        {
+          "note": "In 1967 Weinberg and Salam incorporated spontaneous symmetry breaking into the electroweak theory.",
+          "title": "Weinberg-Salam model"
+        },
+        {
+          "note": "Gargamelle observed weak neutral-current events in 1973, confirming the theory.",
+          "title": "Neutral currents"
+        },
+        {
+          "note": "CERN discovered the W and Z bosons in 1983 at masses predicted by the theory.",
+          "title": "W and Z bosons"
+        }
+      ],
+      "note": "Glashow, Salam and Weinberg unified electromagnetism and the weak force in a spontaneously broken SU(2)L × U(1)Y gauge theory, predicting W and Z bosons and neutral currents. The mixing angle relates the couplings through e = g sin θ_W.",
+      "people": [
+        "Sheldon Glashow",
+        "Abdus Salam",
+        "Steven Weinberg"
+      ],
+      "title": "Electroweak unification",
+      "when": "1967"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Quarks carry one of three color charges, while gluons carry color-anticolor combinations.",
+          "title": "Color charge"
+        },
+        {
+          "note": "Non-Abelian gluon fields carry color and interact with one another.",
+          "title": "Gluon self-interaction"
+        },
+        {
+          "note": "Gross, Wilczek and Politzer showed in 1973 that α_s decreases at high momentum transfer.",
+          "title": "Asymptotic freedom"
+        },
+        {
+          "note": "No isolated colored particles are observed; hadrons are color singlets.",
+          "title": "Confinement"
+        }
+      ],
+      "note": "QCD is a non-Abelian SU(3) gauge theory in which quarks carry color and interact via eight gluons. The strong coupling α_s(Q²) falls as Q² rises, giving asymptotic freedom while confinement keeps isolated quarks unseen.",
+      "people": [
+        "Harald Fritzsch",
+        "Murray Gell-Mann",
+        "Heinrich Leutwyler",
+        "David Gross",
+        "Frank Wilczek",
+        "David Politzer"
+      ],
+      "title": "Quantum chromodynamics",
+      "when": "1973"
+    },
+    {
+      "concepts": [
+        {
+          "note": "In 1964 several groups showed that spontaneous breaking of a gauge symmetry can generate particle masses.",
+          "title": "Brout-Englert-Higgs mechanism"
+        },
+        {
+          "note": "In 2012 the two LHC experiments reported a new boson near 125 GeV/c².",
+          "title": "ATLAS/CMS discovery"
+        },
+        {
+          "note": "Observed production and decay rates are consistent with Standard Model mass generation.",
+          "title": "Higgs couplings"
+        },
+        {
+          "note": "The hierarchy problem, vacuum stability and possible Higgs partners remain unresolved.",
+          "title": "Open questions"
+        }
+      ],
+      "note": "ATLAS and CMS discovered a scalar boson near 125 GeV/c² at the LHC, matching the Higgs boson predicted by the Brout-Englert-Higgs mechanism that gives masses to W and Z bosons and fermions. Its scalar potential is V(φ) = μ²φ†φ + λ(φ†φ)².",
+      "people": [
+        "Peter Higgs",
+        "François Englert",
+        "Robert Brout",
+        "ATLAS",
+        "CMS"
+      ],
+      "title": "Higgs boson",
+      "when": "2012"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "root_title": "Physics: From Newton to the Frontier",
+  "branches": [
+    {
+      "id": "newtonian-mechanics",
+      "span": "1687-1830s",
+      "subtopics": [
+        "Newton's laws (1687)",
+        "Universal gravitation (1687)",
+        "Calculus of variations (1744)",
+        "Rigid-body dynamics (1750s)",
+        "Lagrangian mechanics (1788)",
+        "Hamiltonian mechanics (1833)"
+      ],
+      "summary": "Newton's Principia (1687) set F = ma and universal gravitation, and Euler, Lagrange and Hamilton recast mechanics analytically.",
+      "title": "Newtonian mechanics"
+    },
+    {
+      "id": "electromagnetism-optics",
+      "span": "1785-1900",
+      "subtopics": [
+        "Coulomb's law (1785)",
+        "Wave theory of light (1801)",
+        "Ampère's force law (1820s)",
+        "Faraday induction (1831)",
+        "Maxwell equations (1865)",
+        "Electromagnetic waves (1888)",
+        "Lorentz force law (1892)"
+      ],
+      "summary": "Coulomb, Young, Faraday and Maxwell unified electricity, magnetism and light in Maxwell's equations (1865), notably ∇×B = μ₀J + μ₀ε₀∂E/∂t.",
+      "title": "Electromagnetism and optics"
+    },
+    {
+      "id": "thermodynamics-statmech",
+      "span": "1824-1902",
+      "subtopics": [
+        "Carnot cycle (1824)",
+        "First law of thermodynamics (1840s)",
+        "Second law of thermodynamics (1850)",
+        "Kinetic theory of gases (1860)",
+        "Boltzmann equation (1872)",
+        "Statistical entropy (1877)",
+        "Gibbs ensembles (1902)"
+      ],
+      "summary": "Carnot, Joule, Clausius and Boltzmann established the laws of thermodynamics and the statistical entropy S = k log W.",
+      "title": "Thermodynamics and statistical mechanics"
+    },
+    {
+      "id": "quantum-mechanics-qft",
+      "span": "1900-1970s",
+      "subtopics": [
+        "Planck quantum (1900)",
+        "Bohr atom (1913)",
+        "Matrix and wave mechanics (1925-26)",
+        "Uncertainty principle (1927)",
+        "Dirac equation (1928)",
+        "Entanglement and Bell's theorem (1935-1964)",
+        "QED renormalization (1940s)",
+        "Gauge field theory (1954)"
+      ],
+      "summary": "Planck's E = hν, Schrödinger's iħ∂ψ/∂t = Ĥψ and Dirac's equation grew into quantum field theory and gauge theory.",
+      "title": "Quantum mechanics and QFT"
+    },
+    {
+      "id": "relativity-gravitation",
+      "span": "1905-2015",
+      "subtopics": [
+        "Special relativity (1905)",
+        "Mass-energy equivalence (1905)",
+        "Minkowski spacetime (1908)",
+        "General relativity (1915)",
+        "Schwarzschild solution (1916)",
+        "Tests of general relativity (1919-)",
+        "Gravitational waves (2015)"
+      ],
+      "summary": "Einstein's 1905 special relativity and 1915 field equations Rμν − ½R gμν = 8πG Tμν/c⁴ replaced absolute space and time with spacetime curvature.",
+      "title": "Relativity and gravitation"
+    },
+    {
+      "id": "nuclear-particle",
+      "span": "1896-2012",
+      "subtopics": [
+        "Radioactivity (1896)",
+        "Rutherford nucleus (1911)",
+        "Neutron and neutrino (1930-1956)",
+        "Fission and fusion (1938-39)",
+        "Quark model (1964)",
+        "Electroweak unification (1967)",
+        "Quantum chromodynamics (1973)",
+        "Higgs boson (2012)"
+      ],
+      "summary": "Radioactivity, the nucleus and cosmic rays led to quarks, electroweak unification, QCD and the Higgs boson.",
+      "title": "Nuclear and particle physics"
+    },
+    {
+      "id": "amo-physics",
+      "span": "1814-1995",
+      "subtopics": [
+        "Fraunhofer lines (1814)",
+        "Balmer series (1885)",
+        "Zeeman effect (1896)",
+        "Stimulated emission (1917)",
+        "Atomic clock (1955)",
+        "Laser (1960)",
+        "Bose-Einstein condensate (1995)"
+      ],
+      "summary": "The Planck-Einstein relation E = hν underpins spectroscopy, lasers and atomic clocks, making atoms and light precision probes.",
+      "title": "Atomic, molecular, optical physics"
+    },
+    {
+      "id": "condensed-matter",
+      "span": "1900-present",
+      "subtopics": [
+        "Superconductivity (1911)",
+        "Band theory and Bloch theorem (1928)",
+        "Semiconductors and transistor (1947)",
+        "BCS theory (1957)",
+        "Phase transitions and RG (1970s)",
+        "Quantum Hall effect (1980)",
+        "High-Tc cuprates (1986)",
+        "Topological and 2D materials (2004-)"
+      ],
+      "summary": "Electrons in solids, superconductivity and many-body theory produced semiconductors, quantum Hall states and topological materials.",
+      "title": "Condensed matter physics"
+    },
+    {
+      "id": "astrophysics-cosmology",
+      "span": "1915-present",
+      "subtopics": [
+        "Stellar structure and nucleosynthesis (1920s-1957)",
+        "Hubble law (1929)",
+        "Dark matter evidence (1933-1970s)",
+        "Compact stars and black holes (1930s-2019)",
+        "Big Bang nucleosynthesis (1948)",
+        "Cosmic microwave background (1965)",
+        "Cosmic inflation (1980s)",
+        "Dark energy and ΛCDM (1998-2018)"
+      ],
+      "summary": "General relativity, Hubble's law and the cosmic microwave background established an expanding universe with dark matter and dark energy.",
+      "title": "Astrophysics and cosmology"
+    },
+    {
+      "id": "fluids-plasmas-complexity",
+      "span": "1822-present",
+      "subtopics": [
+        "Navier-Stokes equations (1822-1845)",
+        "Turbulence (1883-1941)",
+        "Plasma physics and MHD (1920s-1940s)",
+        "Chaos (1890-1963)",
+        "Solitons (1965)",
+        "Soft matter and biophysics (1950s-)",
+        "Self-organized criticality and networks (1987-1998)"
+      ],
+      "summary": "Continuum flows, plasmas, chaos and soft and living matter show how collective, nonlinear behaviour emerges from simple laws.",
+      "title": "Fluids, plasmas and complex systems"
+    },
+    {
+      "id": "open-frontier-2026",
+      "span": "today",
+      "subtopics": [
+        "Quantum gravity",
+        "Dark matter identity",
+        "Dark energy and Hubble tension",
+        "Beyond the Standard Model",
+        "Neutrino masses and nature",
+        "Strongly correlated quantum matter",
+        "Quantum computing and simulation",
+        "Controlled fusion energy",
+        "Machine learning in physics"
+      ],
+      "summary": "The biggest open questions and most active research programmes in physics as of 2026.",
+      "title": "Open frontier (2026)"
+    }
+  ]
+}

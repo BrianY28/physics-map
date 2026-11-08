@@ -1,0 +1,192 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Carnot showed the maximum efficiency depends only on the two reservoir temperatures; its modern form η = 1 - T_C/T_H follows from the absolute temperature scale and the second law.",
+          "title": "Carnot efficiency"
+        },
+        {
+          "note": "The cycle alternates isothermal expansion and compression with adiabatic expansion and compression.",
+          "title": "Reversible cycle legs"
+        },
+        {
+          "note": "No engine operating between the same two reservoirs can exceed the efficiency of a reversible Carnot engine.",
+          "title": "Carnot theorem"
+        },
+        {
+          "note": "Irreversible processes reduce work output, motivating the later concept of entropy.",
+          "title": "Reversibility and maximum work"
+        }
+      ],
+      "note": "Carnot analyzed an idealized reversible heat engine within caloric theory and showed that its maximum efficiency depends only on the temperatures of the two reservoirs, not on the working substance. The modern formula η = 1 - T_C/T_H came later, after Kelvin's absolute temperature scale (1848) and Clausius's work in the 1850s.",
+      "people": [
+        "Sadi Carnot"
+      ],
+      "title": "Carnot cycle",
+      "when": "1824"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Mechanical work churned water and raised its temperature, establishing the mechanical equivalent of heat in the 1840s.",
+          "title": "Joule's paddle-wheel experiment"
+        },
+        {
+          "note": "Joule estimated about 4.2 J per calorie, linking work and heat quantitatively.",
+          "title": "Mechanical equivalent of heat"
+        },
+        {
+          "note": "The change ΔU depends only on initial and final states, not on the path.",
+          "title": "Internal energy as a state function"
+        },
+        {
+          "note": "The first law expresses conservation of energy for thermodynamic systems, including heat and work.",
+          "title": "Energy conservation"
+        }
+      ],
+      "note": "Heat and mechanical work are equivalent forms of energy, and the internal energy of a system is a state function: ΔU = Q - W, with work done by the system. Joule's paddle-wheel experiments provided quantitative support.",
+      "people": [
+        "Julius von Mayer",
+        "James Prescott Joule",
+        "Hermann von Helmholtz"
+      ],
+      "title": "First law of thermodynamics",
+      "when": "1840s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Heat cannot flow spontaneously from a colder to a hotter body without external work.",
+          "title": "Clausius statement"
+        },
+        {
+          "note": "No cyclic engine can convert heat from a single reservoir entirely into work.",
+          "title": "Kelvin-Planck statement"
+        },
+        {
+          "note": "Clausius introduced entropy as a state function whose change measures reversible heat transfer divided by temperature.",
+          "title": "Entropy"
+        },
+        {
+          "note": "For any cyclic process ∮ δQ/T ≤ 0, with equality only when reversible.",
+          "title": "Clausius inequality"
+        }
+      ],
+      "note": "Clausius and Kelvin stated the impossibility of certain spontaneous heat-flow and engine processes. Clausius later introduced entropy in 1865, yielding ΔS ≥ ∫ δQ/T, with equality for reversible processes.",
+      "people": [
+        "Rudolf Clausius",
+        "William Thomson (Lord Kelvin)"
+      ],
+      "title": "Second law of thermodynamics",
+      "when": "1850"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Molecular speeds follow f(v) ∝ v² exp(-mv²/2kT) in thermal equilibrium.",
+          "title": "Maxwell-Boltzmann distribution"
+        },
+        {
+          "note": "Clausius introduced the average distance a molecule travels between collisions.",
+          "title": "Mean free path"
+        },
+        {
+          "note": "Each quadratic degree of freedom contributes ½kT to the average energy in classical thermal equilibrium.",
+          "title": "Equipartition theorem"
+        },
+        {
+          "note": "Kinetic theory relates viscosity, thermal conductivity and diffusion to molecular collisions.",
+          "title": "Transport coefficients"
+        }
+      ],
+      "note": "Maxwell derived the molecular speed distribution f(v) ∝ v² exp(-mv²/2kT) and, with Boltzmann, connected macroscopic gas properties to microscopic collisions. Clausius had earlier introduced the mean free path.",
+      "people": [
+        "James Clerk Maxwell",
+        "Ludwig Boltzmann",
+        "Rudolf Clausius"
+      ],
+      "title": "Kinetic theory of gases",
+      "when": "1860"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The right-hand side sums changes in f from binary molecular collisions.",
+          "title": "Collision integral"
+        },
+        {
+          "note": "Boltzmann assumed pre-collision velocities are statistically uncorrelated, introducing irreversibility.",
+          "title": "Molecular chaos (Stosszahlansatz)"
+        },
+        {
+          "note": "Boltzmann showed his H functional decreases monotonically, connecting microscopic dynamics to entropy growth.",
+          "title": "H-theorem"
+        },
+        {
+          "note": "Loschmidt's reversibility and Zermelo's recurrence objections exposed tensions between microscopic reversibility and macroscopic irreversibility.",
+          "title": "Reversibility and recurrence objections"
+        }
+      ],
+      "note": "Boltzmann's integro-differential equation describes how a one-particle distribution evolves under external forces and binary collisions: ∂f/∂t + v·∇_r f + (F/m)·∇_v f = (∂f/∂t)_coll.",
+      "people": [
+        "Ludwig Boltzmann"
+      ],
+      "title": "Boltzmann equation",
+      "when": "1872"
+    },
+    {
+      "concepts": [
+        {
+          "note": "A macrostate's entropy counts the number W of microscopic configurations consistent with it.",
+          "title": "Microstates and macrostates"
+        },
+        {
+          "note": "S = k log W links thermodynamic entropy to statistical multiplicity.",
+          "title": "Boltzmann entropy formula"
+        },
+        {
+          "note": "The constant k ≈ 1.38 × 10⁻²³ J/K was introduced by Planck in 1900.",
+          "title": "Boltzmann constant"
+        },
+        {
+          "note": "Equilibrium corresponds to the overwhelmingly most probable macrostate, explaining entropy increase statistically.",
+          "title": "Second-law interpretation"
+        }
+      ],
+      "note": "Boltzmann related entropy to the number W of microscopic configurations compatible with a macrostate, S = k log W. Planck later introduced the constant k and gave it Boltzmann's name.",
+      "people": [
+        "Ludwig Boltzmann",
+        "Max Planck"
+      ],
+      "title": "Statistical entropy",
+      "when": "1877"
+    },
+    {
+      "concepts": [
+        {
+          "note": "An isolated system with fixed energy is described by a uniform distribution over accessible microstates.",
+          "title": "Microcanonical ensemble"
+        },
+        {
+          "note": "A system in contact with a heat bath has P ∝ exp(-H/kT), yielding the Helmholtz free energy.",
+          "title": "Canonical ensemble"
+        },
+        {
+          "note": "A system exchanging energy and particles with a reservoir uses a grand partition function and chemical potential.",
+          "title": "Grand canonical ensemble"
+        },
+        {
+          "note": "The normalization Z encodes the statistical sum from which thermodynamic observables follow.",
+          "title": "Partition function"
+        }
+      ],
+      "note": "Gibbs formulated statistical mechanics through ensembles of microscopic states, with canonical probabilities P ∝ exp(-H/kT) and thermodynamic quantities derived from partition functions such as F = -kT ln Z.",
+      "people": [
+        "Josiah Willard Gibbs"
+      ],
+      "title": "Gibbs ensembles",
+      "when": "1902"
+    }
+  ]
+}

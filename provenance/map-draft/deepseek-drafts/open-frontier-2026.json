@@ -1,0 +1,276 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Maldacena's 1997 AdS/CFT correspondence equates a gravity theory in anti-de Sitter space with a boundary conformal field theory, giving the best-defined nonperturbative quantum-gravity models.",
+          "title": "Holographic duality"
+        },
+        {
+          "note": "Hawking's 1974 calculation suggested information loss; 2019 replica-wormhole derivations of the Page curve support unitarity in holographic models, but the real-world resolution is open.",
+          "title": "Black-hole information paradox"
+        },
+        {
+          "note": "Ashtekar's 1986 variables and Rovelli–Smolin spin networks quantize geometry; deriving a 4D continuum limit and low-energy gravity remains open.",
+          "title": "Loop quantum gravity"
+        },
+        {
+          "note": "Gamma-ray-burst and gravitational-wave data constrain Lorentz violation and extra dimensions, but no Planck-scale signal has been confirmed.",
+          "title": "Planck-scale phenomenology"
+        }
+      ],
+      "note": "Known: general relativity and quantum field theory conflict at the Planck scale ℓ_P = √(ħG/c³) ≈ 1.6×10⁻³⁵ m, while holography supplies consistent toy models. Unknown: a background-independent, empirically confirmed 4D theory; string theory/AdS-CFT, loop quantum gravity, asymptotic safety and causal triangulation are the main programmes, and no decisive experiment exists—LIGO's 2015 detection only opened strong-field tests.",
+      "people": [
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Juan Maldacena",
+        "Abhay Ashtekar",
+        "Carlo Rovelli",
+        "Martin Reuter"
+      ],
+      "title": "Quantum gravity",
+      "when": "2026 (open; roots 1915–1930s)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Xenon and argon detectors see no nuclear recoils above background, pushing WIMP–nucleon limits near 10⁻⁴⁷ cm² for tens of GeV masses.",
+          "title": "WIMP direct detection"
+        },
+        {
+          "note": "ADMX and HAYSTAC scan microwave cavities for axion–photon conversion; only small mass windows are excluded.",
+          "title": "Axion haloscopes"
+        },
+        {
+          "note": "Zwicky's 1933 cluster velocities and Rubin's 1970s flat rotation curves established missing mass, later confirmed by lensing and the Bullet Cluster.",
+          "title": "Galactic rotation evidence"
+        },
+        {
+          "note": "Milgrom's 1983 modified-gravity fits galaxy curves but struggles with clusters and the CMB; no alternative is accepted.",
+          "title": "MOND alternatives"
+        }
+      ],
+      "note": "Known: about 27% of the cosmic energy density is cold, collisionless dark matter, inferred from galaxy rotation, lensing, the CMB and structure formation (Ω_DM h² ≈ 0.12). Unknown: its identity; XENONnT, LZ and PandaX direct-detection null results (2023) and axion haloscopes have not found a particle.",
+      "people": [
+        "Fritz Zwicky",
+        "Vera Rubin",
+        "Elena Aprile",
+        "Laura Baudis",
+        "Katherine Freese"
+      ],
+      "title": "Dark matter identity",
+      "when": "2026 (open; since 1933)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Riess/Perlmutter 1998 found distant SNe Ia dimmer than expected; Λ has w = −1.",
+          "title": "Cosmic acceleration"
+        },
+        {
+          "note": "Planck 2018 and SH0ES 2022 disagree on H0 at ~5σ; JWST and new distance-ladder calibrations test systematics.",
+          "title": "Hubble tension"
+        },
+        {
+          "note": "DESI BAO data (2024–2025) favour w0waCDM over Λ at few σ when combined with SNe, but no discovery is established.",
+          "title": "DESI evolving dark energy"
+        },
+        {
+          "note": "Euclid (launched 2023) and Rubin/LSST will map weak lensing and BAO to test w(z) and the tension.",
+          "title": "Euclid and LSST"
+        }
+      ],
+      "note": "Known: cosmic expansion accelerates, and ΛCDM fits CMB, BAO and supernovae with dark energy ~68% and w = p/(ρc²) ≈ −1; the decisive discovery was the 1998 supernova result. Unknown: whether w evolves and whether the ~5σ Hubble tension (local ~73 versus CMB ~67.4 km/s/Mpc) is new physics or systematics; DESI 2024–2025 hints at evolving dark energy only at low significance.",
+      "people": [
+        "Saul Perlmutter",
+        "Brian Schmidt",
+        "Adam Riess",
+        "Wendy Freedman",
+        "Licia Verde"
+      ],
+      "title": "Dark energy and Hubble tension",
+      "when": "2026 (open; discovery 1998)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "ATLAS and CMS found a ~125 GeV scalar in 2012; its couplings match the Standard Model, while the hierarchy problem remains open.",
+          "title": "Higgs boson discovery"
+        },
+        {
+          "note": "No supersymmetric particles or extra dimensions have appeared; gluino and squark limits reach the multi-TeV scale.",
+          "title": "LHC null results"
+        },
+        {
+          "note": "LHCb saw B-meson anomalies around 2014–2022, but 2022 data reduced their significance; the status is unresolved.",
+          "title": "Flavor anomalies"
+        },
+        {
+          "note": "Fermilab's 2021 measurement confirmed the Brookhaven muon g-2 discrepancy, but theory uncertainty prevents a BSM claim.",
+          "title": "Muon g-2 anomaly"
+        }
+      ],
+      "note": "Known: the Standard Model gauge group SU(3)×SU(2)×U(1) fits collider data, and the 2012 Higgs discovery completed its particle content; it still cannot explain neutrino masses, dark matter, baryon asymmetry, the hierarchy or gravity. Unknown: which extension is realized and at what scale; the LHC has found no SUSY or extra dimensions, so searches continue at HL-LHC, Belle II, LHCb, EDM and dark-sector experiments.",
+      "people": [
+        "Peter Higgs",
+        "François Englert",
+        "Fabiola Gianotti",
+        "Gian Giudice",
+        "Hitoshi Murayama"
+      ],
+      "title": "Beyond the Standard Model",
+      "when": "2026 (open; since 1960s–1970s)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The PMNS formula P(νe→νμ) = sin²2θ sin²(Δm²L/4E) fits solar, atmospheric, reactor and beam data.",
+          "title": "Neutrino oscillation"
+        },
+        {
+          "note": "NOvA and T2K mildly favour normal ordering, but JUNO and DUNE must settle it; not yet a discovery.",
+          "title": "Mass ordering"
+        },
+        {
+          "note": "Neutrinoless double-beta searches (CUORE, LEGEND, KamLAND-Zen) have seen no signal, so whether the neutrino is its own antiparticle is open.",
+          "title": "Majorana versus Dirac"
+        },
+        {
+          "note": "KATRIN's 2022 limit is mβ < 0.8 eV, while cosmology gives Σmν ≲ 0.1 eV; the absolute scale remains unknown.",
+          "title": "Absolute neutrino mass"
+        }
+      ],
+      "note": "Known: neutrinos oscillate, so at least two masses are nonzero; Super-Kamiokande (1998) and SNO (2001) established atmospheric and solar oscillations, and mixing angles and Δm² are measured. Unknown: absolute mass scale, ordering, Dirac versus Majorana nature and leptonic CP violation; JUNO, DUNE, KATRIN and neutrinoless double-beta experiments target them.",
+      "people": [
+        "Bruno Pontecorvo",
+        "Takaaki Kajita",
+        "Arthur McDonald",
+        "Koichiro Nishikawa",
+        "Kate Scholberg"
+      ],
+      "title": "Neutrino masses and nature",
+      "when": "2026 (open; oscillations 1998–2002)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Bednorz and Müller discovered cuprate superconductivity in 1986; the pseudogap and pairing mechanism remain contested.",
+          "title": "High-Tc cuprates"
+        },
+        {
+          "note": "Twisted bilayer graphene at the magic angle (2018) shows correlated insulators and superconductivity, a tunable flat-band laboratory.",
+          "title": "Magic-angle graphene"
+        },
+        {
+          "note": "Cuprates and heavy fermions show resistivity linear in T down to low temperature, violating Fermi-liquid expectations; its origin is open.",
+          "title": "Strange metal"
+        },
+        {
+          "note": "The 1982 Tsui–Störmer discovery revealed fractionally charged anyons and topological order; braiding remains a quantum-computing goal.",
+          "title": "Fractional quantum Hall"
+        }
+      ],
+      "note": "Known: strong electron correlations produce Mott insulators, high-Tc cuprates, fractional quantum Hall states and quantum spin liquids, often described by Hubbard-type models H = −tΣ c†c + UΣ n↑n↓. Unknown: the cuprate pairing mechanism, strange-metal transport and how to design room-temperature superconductors; ARPES, STM, neutron scattering, cold atoms and moiré systems are the main probes, with magic-angle graphene (2018) the latest decisive platform.",
+      "people": [
+        "Philip Anderson",
+        "Nevill Mott",
+        "Pablo Jarillo-Herrero",
+        "Subir Sachdev",
+        "Ali Yazdani"
+      ],
+      "title": "Strongly correlated quantum matter",
+      "when": "2026 (open; cuprates 1986)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Sycamore's 2019 random-circuit sampling claim was contested by improved classical simulations; practical advantage is still unproven.",
+          "title": "Quantum advantage"
+        },
+        {
+          "note": "Below the threshold p < p_th, logical error falls exponentially with code distance; Willow demonstrated this in 2024 but with small logical qubits.",
+          "title": "Surface-code threshold"
+        },
+        {
+          "note": "Rydberg-atom arrays offer flexible connectivity and hundreds of qubits, but gate fidelities and fault tolerance are not yet sufficient.",
+          "title": "Neutral-atom arrays"
+        },
+        {
+          "note": "Feynman's 1982 proposal underlies analog and digital simulation of materials and chemistry; a clear beyond-classical useful result is still open.",
+          "title": "Quantum simulation"
+        }
+      ],
+      "note": "Known: qubits support high-fidelity gates, and small surface-code logical qubits now suppress errors as distance grows, with Google's 2024 Willow result operating below threshold after the 2019 Sycamore quantum-advantage claim. Unknown: a large fault-tolerant machine with verified practical advantage; superconducting, trapped-ion, neutral-atom and photonic platforms are racing, and error rates, scaling and verification remain open.",
+      "people": [
+        "Richard Feynman",
+        "Peter Shor",
+        "David Deutsch",
+        "John Martinis",
+        "Christopher Monroe",
+        "Mikhail Lukin"
+      ],
+      "title": "Quantum computing and simulation",
+      "when": "2026 (open; proposal 1982)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Magnetic fusion needs nTτ_E above the D–T ignition threshold; inertial fusion uses areal density and ρR.",
+          "title": "Lawson criterion"
+        },
+        {
+          "note": "The 2022 shot produced more fusion energy than laser energy on target, but wall-plug gain and repetition rate remain far off.",
+          "title": "NIF ignition"
+        },
+        {
+          "note": "ITER aims at Q=10 but its revised baseline delays first plasma to 2034 and D–T to 2039.",
+          "title": "Tokamaks and ITER"
+        },
+        {
+          "note": "Commonwealth Fusion's SPARC, TAE and others target net energy in the 2030s; no private plant has demonstrated net electricity.",
+          "title": "Private fusion"
+        }
+      ],
+      "note": "Known: D–T fusion can exceed target gain, with NIF achieving ignition (3.15 MJ from 2.05 MJ) in 2022 and JET setting a 69 MJ D–T record in 2024; the Lawson criterion nTτ_E ≳ 3×10²¹ keV s m⁻³ sets the target. Unknown: sustained net electricity, tritium breeding, materials and economics; ITER (revised first plasma 2034), SPARC, Wendelstein 7-X and private tokamaks are the main programmes.",
+      "people": [
+        "Andrei Sakharov",
+        "Igor Tamm",
+        "Kim Budil",
+        "Bernard Bigot",
+        "Bob Mumgaard"
+      ],
+      "title": "Controlled fusion energy",
+      "when": "2026 (open; since 1950s)"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Carleo and Troyer (2017) represented many-body wavefunctions with restricted Boltzmann machines, launching ML-based quantum simulation.",
+          "title": "Neural quantum states"
+        },
+        {
+          "note": "Deep networks tag jets and search for anomalies at the LHC, but no new particle has been found this way.",
+          "title": "ML for colliders"
+        },
+        {
+          "note": "Raissi et al. (2019) embedded PDE residuals in loss functions, enabling data-driven solutions of physical systems.",
+          "title": "Physics-informed networks"
+        },
+        {
+          "note": "Survey classifiers and generative models handle billions of galaxies and transients; interpretability and selection biases remain open.",
+          "title": "AI in astronomy"
+        }
+      ],
+      "note": "Known: machine learning is standard in collider event selection, gravitational-wave denoising, survey astronomy, materials screening and neural quantum states, and physics-informed networks solve PDEs; the variational principle E[ψ]=⟨ψ|H|ψ⟩/⟨ψ|ψ⟩ ≥ E0 underlies neural wavefunctions. Unknown: whether ML can discover new fundamental laws or deliver calibrated uncertainty and interpretability; no AI-discovered fundamental law exists as of 2026, with Carleo–Troyer neural quantum states (2017) a landmark physics-specific result.",
+      "people": [
+        "John Hopfield",
+        "Geoffrey Hinton",
+        "Yann LeCun",
+        "Giuseppe Carleo",
+        "Kyle Cranmer"
+      ],
+      "title": "Machine learning in physics",
+      "when": "2026 (open; boom since 2010s)"
+    }
+  ]
+}

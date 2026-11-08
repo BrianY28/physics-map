@@ -1,0 +1,2 @@
+1. BCS theory note: typo "gaped" -> "gapped".
+2. High-Tc cuprates: the concept "Strange metal" duplicates the frontier branch. Replace it with "Beyond cuprates": iron-based superconductors (Hosono, 2008) and high-pressure hydrides (H₃S at 203 K, Eremets, 2015).

@@ -1,0 +1,111 @@
+{
+ "nodes": [
+  {
+   "id": "carnot-cycle",
+   "sources": [
+    {
+     "citation": "Carnot, S. (1824). Réflexions sur la puissance motrice du feu et sur les machines propres à développer cette puissance. Paris: Bachelier.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Fermi, E. (1937). Thermodynamics. New York: Prentice-Hall.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "first-law-of-thermodynamics",
+   "sources": [
+    {
+     "citation": "Mayer, J. R. (1842). Bemerkungen über die Kräfte der unbelebten Natur. Annalen der Chemie und Pharmacie, 42, 233–240.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Joule, J. P. (1850). On the mechanical equivalent of heat. Philosophical Transactions of the Royal Society of London, 140, 61–82.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Helmholtz, H. (1847). Über die Erhaltung der Kraft. Berlin: Druck und Verlag von G. Reimer.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "second-law-of-thermodynamics",
+   "sources": [
+    {
+     "citation": "Clausius, R. (1850). Über die bewegende Kraft der Wärme und die Gesetze, welche sich daraus für die Wärmelehre selbst ableiten lassen. Annalen der Physik und Chemie.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Clausius, R. (1865). Über verschiedene für die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Wärmetheorie. Annalen der Physik und Chemie, 125, 353–400.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Fermi, E. (1937). Thermodynamics. New York: Prentice-Hall.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "kinetic-theory-of-gases",
+   "sources": [
+    {
+     "citation": "Maxwell, J. C. (1860). Illustrations of the dynamical theory of gases. Philosophical Magazine, 19, 19–32; 20, 21–37.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Boltzmann, L. (1872). Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, 66, 275–370.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Chapman, S., & Cowling, T. G. (1970). The Mathematical Theory of Non-uniform Gases (3rd ed.). Cambridge: Cambridge University Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "boltzmann-equation",
+   "sources": [
+    {
+     "citation": "Boltzmann, L. (1872). Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, 66, 275–370.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Cercignani, C. (1988). The Boltzmann Equation and Its Applications. New York: Springer-Verlag.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "statistical-entropy",
+   "sources": [
+    {
+     "citation": "Boltzmann, L. (1877). Über die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Wärmetheorie und der Wahrscheinlichkeitsrechnung respektive den Sätzen über das Wärmegleichgewicht. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien, 76, 373–435.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Planck, M. (1901). Über das Gesetz der Energieverteilung im Normalspektrum. Annalen der Physik, 4, 553–563.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Pathria, R. K., & Beale, P. D. (2011). Statistical Mechanics (3rd ed.). Amsterdam: Elsevier/Academic Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "gibbs-ensembles",
+   "sources": [
+    {
+     "citation": "Gibbs, J. W. (1902). Elementary Principles in Statistical Mechanics: Developed with Especial Reference to the Rational Foundation of Thermodynamics. New York: Charles Scribner's Sons.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Tolman, R. C. (1938). The Principles of Statistical Mechanics. Oxford: Oxford University Press.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Coulomb's torsion balance measured tiny electrostatic forces by balancing them against a twisted fiber.",
+          "title": "Torsion balance"
+        },
+        {
+          "note": "The electrostatic force decreases with the square of the separation, establishing the first quantitative law of electricity.",
+          "title": "Inverse-square law"
+        },
+        {
+          "note": "The net force on a charge is the vector sum of the forces from individual charges.",
+          "title": "Superposition of charges"
+        }
+      ],
+      "note": "Coulomb used a torsion balance to show that the force between point charges is proportional to q₁q₂ and falls off as 1/r²: F = (1/4πε₀) q₁q₂/r².",
+      "people": [
+        "Charles-Augustin de Coulomb"
+      ],
+      "title": "Coulomb's law",
+      "when": "1785"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Young observed interference between light passing through two nearby slits, a signature of wave superposition.",
+          "title": "Double-slit experiment"
+        },
+        {
+          "note": "Bright and dark bands arise from constructive and destructive superposition of light waves.",
+          "title": "Interference fringes"
+        },
+        {
+          "note": "Overlapping light waves add amplitudes, so their relative phase determines the resulting intensity.",
+          "title": "Principle of superposition"
+        },
+        {
+          "note": "Young's results challenged Newton's corpuscular theory and reopened the question of light's nature.",
+          "title": "Wave–particle debate"
+        }
+      ],
+      "note": "Young's interference experiments revived the wave theory by showing that light from two slits produces alternating bright and dark fringes with spacing Δy = λL/d.",
+      "people": [
+        "Thomas Young"
+      ],
+      "title": "Wave theory of light",
+      "when": "1801"
+    },
+    {
+      "concepts": [
+        {
+          "note": "In 1820 Ørsted found that a current-carrying wire deflects a nearby magnetic compass needle.",
+          "title": "Ørsted's compass experiment"
+        },
+        {
+          "note": "The line integral of magnetic field around a closed loop equals μ₀ times the enclosed current.",
+          "title": "Ampère's circuital law"
+        },
+        {
+          "note": "Parallel currents attract when in the same direction and repel when opposite.",
+          "title": "Parallel-current forces"
+        },
+        {
+          "note": "Ampère's integro-differential law gives the force between infinitesimal current elements, later superseded by field theory.",
+          "title": "Current-element force law"
+        }
+      ],
+      "note": "Ampère explained Ørsted's 1820 observation of a magnetic needle deflected by current and formulated the force law between current-carrying wires, with F/L = μ₀I₁I₂/(2πr) for parallel wires.",
+      "people": [
+        "André-Marie Ampère",
+        "Hans Christian Ørsted"
+      ],
+      "title": "Ampère's force law",
+      "when": "1820s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Relative motion of a magnet and coil or a changing current generates a transient current in the coil.",
+          "title": "Electromagnetic induction"
+        },
+        {
+          "note": "Flux Φ_B is the surface integral of B, and its rate of change determines the induced EMF.",
+          "title": "Magnetic flux"
+        },
+        {
+          "note": "Faraday introduced intuitive field lines to describe magnetic and electric action through space.",
+          "title": "Lines of force"
+        },
+        {
+          "note": "The homopolar generator produced a continuous current from a rotating conducting disk in a magnetic field.",
+          "title": "Faraday disk"
+        }
+      ],
+      "note": "Faraday found that a changing magnetic flux through a circuit induces an electromotive force, ε = −dΦ_B/dt, linking magnetism and electricity.",
+      "people": [
+        "Michael Faraday"
+      ],
+      "title": "Faraday induction",
+      "when": "1831"
+    },
+    {
+      "concepts": [
+        {
+          "note": "A changing electric field acts as a current source of magnetic field, making Ampère's law consistent with charge conservation.",
+          "title": "Displacement current"
+        },
+        {
+          "note": "Gauss's laws, Faraday's law and the Ampère–Maxwell law relate E, B, charge and current.",
+          "title": "Four field equations"
+        },
+        {
+          "note": "Maxwell identified light as a propagating oscillation of electric and magnetic fields.",
+          "title": "Electromagnetic theory of light"
+        },
+        {
+          "note": "Maxwell's waves were initially thought to propagate through a mechanical aether, later discarded.",
+          "title": "Luminiferous aether"
+        }
+      ],
+      "note": "Maxwell unified electricity, magnetism and optics in four field equations, adding displacement current so that ∇×B = μ₀J + μ₀ε₀∂E/∂t and predicting c = 1/√(μ₀ε₀).",
+      "people": [
+        "James Clerk Maxwell"
+      ],
+      "title": "Maxwell equations",
+      "when": "1865"
+    },
+    {
+      "concepts": [
+        {
+          "note": "A high-voltage spark drove oscillating currents in a dipole-like antenna, radiating electromagnetic waves.",
+          "title": "Spark-gap oscillator"
+        },
+        {
+          "note": "A small loop with a spark gap detected the arriving waves by resonant induction.",
+          "title": "Resonant receiver loop"
+        },
+        {
+          "note": "Hertz showed that the waves could be reflected, refracted and polarized like light.",
+          "title": "Reflection and polarization"
+        },
+        {
+          "note": "Hertz used standing waves to measure the wavelength and inferred a speed close to that of light.",
+          "title": "Speed-of-light measurement"
+        }
+      ],
+      "note": "Hertz generated and detected radio waves with spark-gap apparatus, confirming Maxwell's prediction that light is an electromagnetic wave travelling at c = 1/√(μ₀ε₀).",
+      "people": [
+        "Heinrich Hertz"
+      ],
+      "title": "Electromagnetic waves",
+      "when": "1888"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The electric term qE accelerates a charge while the magnetic term qv×B acts perpendicular to velocity.",
+          "title": "Force on moving charge"
+        },
+        {
+          "note": "In a uniform magnetic field the Lorentz force produces circular or helical motion with cyclotron frequency qB/m.",
+          "title": "Charged-particle trajectories"
+        },
+        {
+          "note": "Lorentz treated matter as composed of charged particles whose motion produced electromagnetic phenomena.",
+          "title": "Electron theory of matter"
+        }
+      ],
+      "note": "Lorentz formulated the force on a charge moving in electric and magnetic fields, F = q(E + v×B), completing the classical dynamics of charged particles.",
+      "people": [
+        "Hendrik Antoon Lorentz"
+      ],
+      "title": "Lorentz force law",
+      "when": "1892"
+    }
+  ]
+}

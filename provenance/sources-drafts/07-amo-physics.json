@@ -1,0 +1,95 @@
+{
+ "nodes": [
+  {
+   "id": "fraunhofer-lines",
+   "sources": [
+    {
+     "citation": "Fraunhofer, J. (1817). Bestimmung des Brechungs- und Farbenzerstreuungs-Vermögens verschiedener Glasarten, in Bezug auf die Vervollkommnung achromatischer Fernröhre [Determination of the refractive and dispersive power of different kinds of glass with reference to the perfecting of achromatic telescopes]. Annalen der Physik, 56, 264–313.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Kirchhoff, G., & Bunsen, R. (1860). Chemische Analyse durch Spectralbeobachtungen [Chemical analysis by spectral observations]. Annalen der Physik und Chemie, 110, 161–189.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "balmer-series",
+   "sources": [
+    {
+     "citation": "Balmer, J. J. (1885). Notiz über die Spectrallinien des Wasserstoffs [Note on the spectral lines of hydrogen]. Annalen der Physik und Chemie, 25, 80–87.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Bohr, N. (1913). On the constitution of atoms and molecules. Philosophical Magazine, 26, 1–25.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "zeeman-effect",
+   "sources": [
+    {
+     "citation": "Zeeman, P. (1897). On the influence of magnetism on the nature of the light emitted by a substance. Philosophical Magazine, 43, 226–239.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Landé, A. (1921). Über den anomalen Zeemaneffekt [On the anomalous Zeeman effect]. Zeitschrift für Physik, 5, 231–241.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "stimulated-emission",
+   "sources": [
+    {
+     "citation": "Einstein, A. (1917). Zur Quantentheorie der Strahlung [On the quantum theory of radiation]. Physikalische Zeitschrift, 18, 121–128.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "atomic-clock",
+   "sources": [
+    {
+     "citation": "Essen, L., & Parry, J. V. L. (1955). An atomic standard of frequency and time interval: a caesium resonator. Nature, 176, 280–282.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Ramsey, N. F. (1950). A molecular beam resonance method with separated oscillating fields. Physical Review, 78, 695–699.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "laser",
+   "sources": [
+    {
+     "citation": "Maiman, T. H. (1960). Stimulated optical radiation in ruby. Nature, 187, 493–494.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Schawlow, A. L., & Townes, C. H. (1958). Infrared and optical masers. Physical Review, 112, 1940–1949.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "bose-einstein-condensate",
+   "sources": [
+    {
+     "citation": "Bose, S. N. (1924). Plancks Gesetz und Lichtquantenhypothese [Planck's law and the hypothesis of light quanta]. Zeitschrift für Physik, 26, 178–181.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Anderson, M. H., Ensher, J. R., Matthews, M. R., et al. (1995). Observation of Bose-Einstein condensation in a dilute atomic vapor. Science, 269, 198–201.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Davis, K. B., Mewes, M.-O., Andrews, M. R., et al. (1995). Bose-Einstein condensation in a gas of sodium atoms. Physical Review Letters, 75, 3969–3973.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

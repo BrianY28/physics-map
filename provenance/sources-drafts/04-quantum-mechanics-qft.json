@@ -1,0 +1,124 @@
+{
+ "nodes": [
+  {
+   "id": "planck-quantum",
+   "sources": [
+    {
+     "citation": "Planck, M. (1901). Über das Gesetz der Energieverteilung im Normalspectrum [On the law of energy distribution in the normal spectrum]. Annalen der Physik, 309, 553–563.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Planck, M. (1906). Vorlesungen über die Theorie der Wärmestrahlung [Lectures on the theory of heat radiation]. Leipzig: Johann Ambrosius Barth.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "bohr-atom",
+   "sources": [
+    {
+     "citation": "Bohr, N. (1913). On the constitution of atoms and molecules. Philosophical Magazine, 26, 1–25.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Bohr, N. (1922). The theory of spectra and atomic constitution. Cambridge University Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "matrix-and-wave-mechanics",
+   "sources": [
+    {
+     "citation": "Heisenberg, W. (1925). Über quantentheoretische Umdeutung kinematischer und mechanischer Beziehungen [On the quantum-theoretical reinterpretation of kinematical and mechanical relations]. Zeitschrift für Physik, 33, 879–893.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Schrödinger, E. (1926). Quantisierung als Eigenwertproblem [Quantization as an eigenvalue problem]. Annalen der Physik, 79, 361–376.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Born, M. (1926). Zur Quantenmechanik der Stoßvorgänge [On the quantum mechanics of collisions]. Zeitschrift für Physik, 37, 863–867.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "uncertainty-principle",
+   "sources": [
+    {
+     "citation": "Heisenberg, W. (1927). Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik [On the perceptual content of quantum theoretical kinematics and mechanics]. Zeitschrift für Physik, 43, 172–198.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Kennard, E. H. (1927). Zur Quantenmechanik einfacher Bewegungstypen [On the quantum mechanics of simple types of motion]. Zeitschrift für Physik, 44, 326–352.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Robertson, H. P. (1929). The uncertainty principle. Physical Review, 34, 163–164.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "dirac-equation",
+   "sources": [
+    {
+     "citation": "Dirac, P. A. M. (1928). The quantum theory of the electron. Proceedings of the Royal Society of London. Series A, 117, 610–624.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Dirac, P. A. M. (1930). The principles of quantum mechanics. Oxford: Clarendon Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "entanglement-and-bells-theorem",
+   "sources": [
+    {
+     "citation": "Einstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? Physical Review, 47, 777–780.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. Physics, 1, 195–200.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Aspect, A., Grangier, P., & Roger, G. (1982). Experimental realization of Einstein-Podolsky-Rosen-Bohm gedankenexperiment: A new violation of Bell's inequalities. Physical Review Letters, 49, 91–94.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "qed-renormalization",
+   "sources": [
+    {
+     "citation": "Schwinger, J. (1948). Quantum electrodynamics. I. A covariant formulation. Physical Review, 74, 1439–1461.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Feynman, R. P. (1949). Space-time approach to quantum electrodynamics. Physical Review, 76, 769–789.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Dyson, F. J. (1949). The radiation theories of Tomonaga, Schwinger, and Feynman. Physical Review, 75, 486–502.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "gauge-field-theory",
+   "sources": [
+    {
+     "citation": "Yang, C. N., & Mills, R. L. (1954). Conservation of isotopic spin and isotopic gauge invariance. Physical Review, 96, 191–195.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Peskin, M. E., & Schroeder, D. V. (1995). An introduction to quantum field theory. Addison-Wesley.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

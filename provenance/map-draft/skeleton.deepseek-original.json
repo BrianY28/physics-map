@@ -1,0 +1,168 @@
+{
+  "root_title": "Physics from Newton to 2026",
+  "branches": [
+    {
+      "id": "newtonian-mechanics",
+      "span": "1687-1830s",
+      "subtopics": [
+        "Newton's laws (1687)",
+        "Universal gravitation (1687)",
+        "Calculus of variations (1744)",
+        "Rigid-body dynamics (1750s)",
+        "Lagrangian mechanics (1788)",
+        "Hamiltonian mechanics (1833)"
+      ],
+      "summary": "Newton's Principia (1687) set F = ma and universal gravitation, and Euler, Lagrange and Hamilton recast mechanics analytically.",
+      "title": "Newtonian mechanics"
+    },
+    {
+      "id": "electromagnetism-optics",
+      "span": "1785-1900",
+      "subtopics": [
+        "Coulomb's law (1785)",
+        "Wave theory of light (1801)",
+        "Ampère's force law (1820s)",
+        "Faraday induction (1831)",
+        "Maxwell equations (1865)",
+        "Electromagnetic waves (1888)",
+        "Lorentz force law (1892)"
+      ],
+      "summary": "Coulomb, Young, Faraday and Maxwell unified electricity, magnetism and light in Maxwell's equations (1865), notably ∇×B = μ₀J + μ₀ε₀∂E/∂t.",
+      "title": "Electromagnetism and optics"
+    },
+    {
+      "id": "thermodynamics-statmech",
+      "span": "1824-1902",
+      "subtopics": [
+        "Carnot cycle (1824)",
+        "First law of thermodynamics (1840s)",
+        "Second law of thermodynamics (1850)",
+        "Kinetic theory of gases (1860)",
+        "Boltzmann equation (1872)",
+        "Statistical entropy (1877)",
+        "Gibbs ensembles (1902)"
+      ],
+      "summary": "Carnot, Joule, Clausius and Boltzmann established the laws of thermodynamics and the statistical entropy S = k log W.",
+      "title": "Thermodynamics and statistical mechanics"
+    },
+    {
+      "id": "amo-physics",
+      "span": "1814-1995",
+      "subtopics": [
+        "Fraunhofer lines (1814)",
+        "Balmer series (1885)",
+        "Zeeman effect (1896)",
+        "Stimulated emission (1917)",
+        "Atomic clock (1955)",
+        "Laser (1960)",
+        "Bose-Einstein condensate (1995)"
+      ],
+      "summary": "The Planck-Einstein relation E = hν underpins spectroscopy, lasers and atomic clocks, making atoms and light precision probes.",
+      "title": "Atomic, molecular, optical physics"
+    },
+    {
+      "id": "relativity-gravitation",
+      "span": "1905-1917",
+      "subtopics": [
+        "Special relativity (1905)",
+        "Mass-energy equivalence (1905)",
+        "Minkowski spacetime (1908)",
+        "General relativity (1915)",
+        "Schwarzschild solution (1916)",
+        "Gravitational waves (2015)"
+      ],
+      "summary": "Einstein's 1905 special relativity and 1915 field equations Rμν − ½R gμν = 8πG Tμν/c⁴ replaced absolute space and time with spacetime curvature.",
+      "title": "Relativity and gravitation"
+    },
+    {
+      "id": "quantum-mechanics-qft",
+      "span": "1900-1970s",
+      "subtopics": [
+        "Planck quantum (1900)",
+        "Bohr atom (1913)",
+        "Schrödinger equation (1926)",
+        "Heisenberg uncertainty (1927)",
+        "Dirac equation (1928)",
+        "QED renormalization (1940s)",
+        "Gauge field theory (1954)"
+      ],
+      "summary": "Planck's E = hν, Schrödinger's iħ∂ψ/∂t = Ĥψ and Dirac's equation grew into quantum field theory and gauge theory.",
+      "title": "Quantum mechanics and QFT"
+    },
+    {
+      "id": "nuclear-particle",
+      "span": "1896-2012",
+      "subtopics": [
+        "Radioactivity (1896)",
+        "Rutherford nucleus (1911)",
+        "Nuclear fission (1938)",
+        "Quark model (1964)",
+        "Electroweak unification (1967)",
+        "Quantum chromodynamics (1973)",
+        "Higgs boson (2012)"
+      ],
+      "summary": "Radioactivity, the nucleus and cosmic rays led to quarks, electroweak unification, QCD and the Higgs boson.",
+      "title": "Nuclear and particle physics"
+    },
+    {
+      "id": "condensed-matter",
+      "span": "1900-present",
+      "subtopics": [
+        "Drude model (1900)",
+        "Superconductivity (1911)",
+        "Bloch theorem (1928)",
+        "BCS theory (1957)",
+        "Renormalization group (1970s)",
+        "Quantum Hall effect (1980)",
+        "Topological insulators (2005)"
+      ],
+      "summary": "Electrons in solids, superconductivity and many-body theory produced semiconductors, quantum Hall states and topological materials.",
+      "title": "Condensed matter physics"
+    },
+    {
+      "id": "astrophysics-cosmology",
+      "span": "1915-1998",
+      "subtopics": [
+        "Stellar structure (1920s)",
+        "Hubble law (1929)",
+        "Dark matter evidence (1933)",
+        "Big Bang nucleosynthesis (1940s)",
+        "Cosmic microwave background (1965)",
+        "Cosmic inflation (1980s)",
+        "Dark energy (1998)"
+      ],
+      "summary": "General relativity, Hubble's law and the cosmic microwave background established an expanding universe with dark matter and dark energy.",
+      "title": "Astrophysics and cosmology"
+    },
+    {
+      "id": "nonlinear-complexity",
+      "span": "1890-2000s",
+      "subtopics": [
+        "Three-body problem (1890)",
+        "Molecular biophysics (1950s)",
+        "Lorenz chaos (1963)",
+        "Solitons (1965)",
+        "Fractal geometry (1975)",
+        "Self-organized criticality (1987)",
+        "Complex networks (1998)"
+      ],
+      "summary": "Poincaré's three-body problem, chaos, solitons, biophysics and network science revealed emergent nonlinear and collective behavior.",
+      "title": "Nonlinear dynamics and complexity"
+    },
+    {
+      "id": "open-frontier-2026",
+      "span": "2026",
+      "subtopics": [
+        "Quantum gravity",
+        "Dark matter and dark energy",
+        "Controlled fusion energy",
+        "Quantum computing and simulation",
+        "Neutrino masses and anomalies",
+        "Hubble tension",
+        "AI-driven physics"
+      ],
+      "summary": "Quantum gravity, dark-sector searches, fusion, quantum computing and AI-driven discovery are leading unsolved problems as of 2026.",
+      "title": "Open frontier 2026"
+    }
+  ]
+}

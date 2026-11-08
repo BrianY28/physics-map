@@ -1,0 +1,106 @@
+{
+ "nodes": [
+  {
+   "id": "newtons-laws",
+   "sources": [
+    {
+     "citation": "Newton, I. (1687). Philosophiae Naturalis Principia Mathematica [Mathematical Principles of Natural Philosophy]. Royal Society (Joseph Streater).",
+     "confidence": "high"
+    },
+    {
+     "citation": "Newton, I. (1999). The Principia: Mathematical Principles of Natural Philosophy (I. B. Cohen & A. Whitman, Trans.). University of California Press.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Goldstein, H., Poole, C. P., & Safko, J. (2002). Classical Mechanics (3rd ed.). Addison Wesley.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "universal-gravitation",
+   "sources": [
+    {
+     "citation": "Newton, I. (1687). Philosophiae Naturalis Principia Mathematica, Book III [Mathematical Principles of Natural Philosophy]. Royal Society (Joseph Streater).",
+     "confidence": "high"
+    },
+    {
+     "citation": "Cavendish, H. (1798). Experiments to determine the density of the Earth. Philosophical Transactions of the Royal Society of London, 88, 469–526.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Boys, C. V. (1895). On the Newtonian constant of gravitation. Philosophical Transactions of the Royal Society of London A, 186, 1–72.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "calculus-of-variations",
+   "sources": [
+    {
+     "citation": "Euler, L. (1744). Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes, sive solutio problematis isoperimetrici latissimo sensu accepti [A method for finding curved lines enjoying a maximum or minimum property]. Bousquet (Lausanne & Geneva).",
+     "confidence": "high"
+    },
+    {
+     "citation": "Lagrange, J.-L. (1762). Essai d'une nouvelle méthode pour déterminer les maxima et les minima des formules intégrales indéfinies. Miscellanea Taurinensia, 2, 173–195.",
+     "confidence": "medium"
+    },
+    {
+     "citation": "Goldstine, H. H. (1980). A History of the Calculus of Variations from the 17th through the 19th Century. Springer-Verlag.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "rigid-body-dynamics",
+   "sources": [
+    {
+     "citation": "Euler, L. (1765). Du mouvement de rotation des corps solides autour d'un axe variable [On the rotational motion of solid bodies about a variable axis]. Mémoires de l'Académie des Sciences de Berlin, 14, 154–193.",
+     "confidence": "medium"
+    },
+    {
+     "citation": "d'Alembert, J. le R. (1743). Traité de dynamique [Treatise on Dynamics]. David l'aîné (Paris).",
+     "confidence": "high"
+    },
+    {
+     "citation": "Goldstein, H., Poole, C. P., & Safko, J. (2002). Classical Mechanics (3rd ed.). Addison Wesley.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "lagrangian-mechanics",
+   "sources": [
+    {
+     "citation": "Lagrange, J.-L. (1788). Mécanique analytique [Analytical Mechanics]. Veuve Desaint (Paris).",
+     "confidence": "high"
+    },
+    {
+     "citation": "Goldstein, H., Poole, C. P., & Safko, J. (2002). Classical Mechanics (3rd ed.). Addison Wesley.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Landau, L. D., & Lifshitz, E. M. (1976). Mechanics (3rd ed.). Pergamon Press.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "hamiltonian-mechanics",
+   "sources": [
+    {
+     "citation": "Hamilton, W. R. (1834). On a general method in dynamics. Philosophical Transactions of the Royal Society of London, 124, 247–308.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Hamilton, W. R. (1835). Second essay on a general method in dynamics. Philosophical Transactions of the Royal Society of London, 125, 95–144.",
+     "confidence": "medium"
+    },
+    {
+     "citation": "Jacobi, C. G. J. (1866). Vorlesungen über Dynamik [Lectures on Dynamics]. Georg Reimer (Berlin).",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

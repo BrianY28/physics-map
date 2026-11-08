@@ -1,0 +1,136 @@
+{
+ "nodes": [
+  {
+   "id": "stellar-structure-and-nucleosynthesis",
+   "sources": [
+    {
+     "citation": "Eddington, A. S. (1926). The Internal Constitution of the Stars. Cambridge University Press.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Bethe, H. A. (1939). Energy production in stars. Physical Review, 55, 434-456.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Burbidge, E. M., Burbidge, G. R., Fowler, W. A., et al. (1957). Synthesis of the elements in stars. Reviews of Modern Physics, 29, 547-650.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "hubble-law",
+   "sources": [
+    {
+     "citation": "Hubble, E. (1929). A relation between distance and radial velocity among extra-galactic nebulae. Proceedings of the National Academy of Sciences, 15, 168-173.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Lemaître, G. (1927). Un univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extra-galactiques [A homogeneous universe of constant mass and increasing radius accounting for the radial velocity of extra-galactic nebulae]. Annales de la Société Scientifique de Bruxelles, 47, 49-59.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "dark-matter-evidence",
+   "sources": [
+    {
+     "citation": "Zwicky, F. (1933). Die Rotverschiebung von extragalaktischen Nebeln [The redshift of extragalactic nebulae]. Helvetica Physica Acta, 6, 110-127.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Rubin, V. C., & Ford, W. K. (1970). Rotation of the Andromeda nebula from a spectroscopic survey of emission regions. Astrophysical Journal, 159, 379-403.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Clowe, D., Bradač, M., Gonzalez, A. H., et al. (2006). A direct empirical proof of the existence of dark matter. Astrophysical Journal Letters, 648, L109-L113.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "compact-stars-and-black-holes",
+   "sources": [
+    {
+     "citation": "Chandrasekhar, S. (1931). The maximum mass of ideal white dwarfs. Astrophysical Journal, 74, 81-82.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Oppenheimer, J. R., & Snyder, H. (1939). On continued gravitational contraction. Physical Review, 56, 455-459.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Event Horizon Telescope Collaboration, Akiyama, K., Alberdi, A., et al. (2019). First M87 Event Horizon Telescope results. I. The shadow of the supermassive black hole. Astrophysical Journal Letters, 875, L1.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "big-bang-nucleosynthesis",
+   "sources": [
+    {
+     "citation": "Alpher, R. A., Bethe, H., & Gamow, G. (1948). The origin of chemical elements. Physical Review, 73, 803-804.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Alpher, R. A., & Herman, R. C. (1948). Evolution of the universe. Nature, 162, 774-775.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Fields, B. D., Olive, K. A., Yeh, T.-H., et al. (2020). Big-Bang nucleosynthesis after Planck. Journal of Cosmology and Astroparticle Physics, 2020(03), 010.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "cosmic-microwave-background",
+   "sources": [
+    {
+     "citation": "Penzias, A. A., & Wilson, R. W. (1965). A measurement of excess antenna temperature at 4080 Mc/s. Astrophysical Journal, 142, 419-421.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Dicke, R. H., Peebles, P. J. E., Roll, P. G., et al. (1965). Cosmic black-body radiation. Astrophysical Journal, 142, 414-419.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Smoot, G. F., Bennett, C. L., Kogut, A., et al. (1992). Structure in the COBE differential microwave radiometer first-year maps. Astrophysical Journal Letters, 396, L1-L5.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "cosmic-inflation",
+   "sources": [
+    {
+     "citation": "Starobinsky, A. A. (1980). A new type of isotropic cosmological models without singularity. Physics Letters B, 91, 99-102.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Guth, A. H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. Physical Review D, 23, 347-356.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Linde, A. D. (1982). A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems. Physics Letters B, 108, 389-393.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "dark-energy-and-cdm",
+   "sources": [
+    {
+     "citation": "Riess, A. G., Filippenko, A. V., Challis, P., et al. (1998). Observational evidence from supernovae for an accelerating universe and a cosmological constant. Astronomical Journal, 116, 1009-1038.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Perlmutter, S., Aldering, G., Goldhaber, G., et al. (1999). Measurements of Ω and Λ from 42 high-redshift supernovae. Astrophysical Journal, 517, 565-586.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Planck Collaboration, Aghanim, N., Akrami, Y., et al. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

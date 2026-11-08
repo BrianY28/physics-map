@@ -1,0 +1,1 @@
+1. Carnot cycle: Carnot (1824) reasoned with caloric theory and showed that maximum efficiency depends only on the two reservoir temperatures, but he did not write η = 1 − T_C/T_H. The formula came after Kelvin's absolute temperature scale (1848) and Clausius (1850s). Correct the note and the "Carnot efficiency" concept accordingly.

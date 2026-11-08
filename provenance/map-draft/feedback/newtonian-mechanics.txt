@@ -1,0 +1,4 @@
+1. Calculus of variations / "Tautochrone curve": wrong. Huygens solved the tautochrone geometrically in 1673; it was not a variational result. Replace this concept with "Principle of least action": Maupertuis (1744) and Euler (1744) proposed that motion makes an action stationary.
+2. Rigid-body dynamics: remove Alexis Clairaut from people (his work was on Earth's figure and lunar theory). Set "when" to "1743-1765" (d'Alembert 1743, Euler's rotation equations published 1765).
+3. Lagrangian mechanics / "Lagrange multipliers": the note says multipliers handle "non-conservative constraints", which is wrong. Say: constraints are enforced by adding multiplier terms, and the multipliers give the constraint forces.
+4. Universal gravitation / Cavendish: Cavendish measured the Earth's density (1798); the value of G was derived from his data later. Say that, not "first value of G".

@@ -1,0 +1,246 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Gas pressure gradients balance gravity in a stable star, dP/dr = -Gm(r)ρ/r².",
+          "title": "Hydrostatic equilibrium"
+        },
+        {
+          "note": "Radiation pressure sets a maximum stable luminosity, L_Edd = 4πGMm_p c/σ_T.",
+          "title": "Eddington luminosity"
+        },
+        {
+          "note": "The pp chain and CNO cycle convert hydrogen to helium and power main-sequence stars.",
+          "title": "Hydrogen fusion chains"
+        },
+        {
+          "note": "The 1957 B²FH paper built elements up to iron by fusion, with heavier nuclei made by slow neutron capture (s-process) in stars and rapid neutron capture (r-process) in explosive events; the 2017 kilonova GW170817 confirmed r-process production in neutron-star mergers.",
+          "title": "B²FH stellar nucleosynthesis"
+        }
+      ],
+      "note": "Eddington's 1926 models treated stars as gas spheres in hydrostatic equilibrium, with energy carried outward by radiation, and Bethe identified the fusion reactions that power them in 1939. The 1957 B²FH paper explained how stars synthesize elements up to iron and, via neutron capture, beyond it.",
+      "people": [
+        "Arthur Eddington",
+        "Hans Bethe",
+        "Fred Hoyle",
+        "Margaret Burbidge",
+        "Geoffrey Burbidge",
+        "William Fowler"
+      ],
+      "title": "Stellar structure and nucleosynthesis",
+      "when": "1920s-1957"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The present expansion rate, measured near 70 km/s/Mpc, with a persistent discrepancy between distance-ladder and early-universe determinations.",
+          "title": "Hubble constant H₀"
+        },
+        {
+          "note": "Cepheid variables and standard candles calibrate extragalactic distances step by step.",
+          "title": "Distance ladder"
+        },
+        {
+          "note": "In 1927 Lemaître derived v = H₀d and interpreted it as cosmic expansion, before Hubble's paper.",
+          "title": "Lemaître's expanding universe"
+        },
+        {
+          "note": "Cosmological redshift of galaxy spectra grows with distance, a signature of metric expansion.",
+          "title": "Redshift-distance relation"
+        }
+      ],
+      "note": "Hubble's 1929 observations showed that galaxy recession velocity grows linearly with distance, v = H₀d, evidence for an expanding universe. Lemaître had derived the relation and its expansion interpretation two years earlier.",
+      "people": [
+        "Edwin Hubble",
+        "Georges Lemaître",
+        "Milton Humason"
+      ],
+      "title": "Hubble law",
+      "when": "1929"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Zwicky inferred far more cluster mass than visible light suggested from galaxy velocity dispersions.",
+          "title": "Coma cluster mass discrepancy"
+        },
+        {
+          "note": "Orbital speeds stay roughly constant at large galactic radii, implying dark matter halos.",
+          "title": "Flat rotation curves"
+        },
+        {
+          "note": "Galaxies and clusters show M/L far above values expected from stars alone.",
+          "title": "Mass-to-light ratios"
+        },
+        {
+          "note": "In 2006 gravitational lensing showed the mass concentrated apart from the hot shocked gas in the colliding cluster 1E 0657-56, strong direct evidence for dark matter.",
+          "title": "Bullet Cluster"
+        }
+      ],
+      "note": "Zwicky (1933) found that galaxies in the Coma cluster move too fast for its visible mass, and Rubin and Ford (1970s) measured flat rotation curves in spiral galaxies. Both imply large amounts of non-luminous matter, with v² = GM(r)/r requiring M(r) ∝ r at large radii.",
+      "people": [
+        "Fritz Zwicky",
+        "Vera Rubin",
+        "Kent Ford",
+        "Jan Oort"
+      ],
+      "title": "Dark matter evidence",
+      "when": "1933-1970s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "White dwarfs above roughly 1.4 M_sun cannot be supported by electron degeneracy pressure.",
+          "title": "Chandrasekhar limit"
+        },
+        {
+          "note": "Jocelyn Bell Burnell and Antony Hewish discovered pulsars in 1967, confirming neutron stars supported by degeneracy pressure.",
+          "title": "Neutron stars and pulsars"
+        },
+        {
+          "note": "The first relativistic model of gravitational collapse forming a black hole.",
+          "title": "Oppenheimer-Snyder collapse"
+        },
+        {
+          "note": "Its 2019 radio image of M87*'s shadow gave direct evidence for a supermassive black hole, followed by an image of Sgr A* in 2022.",
+          "title": "Event Horizon Telescope"
+        }
+      ],
+      "note": "Chandrasekhar's 1931 limit showed that white dwarfs above about 1.4 solar masses must collapse, and Oppenheimer and Snyder (1939) modeled continued collapse to a black hole. The Event Horizon Telescope imaged the shadow of M87* in 2019, confirming the black-hole picture.",
+      "people": [
+        "Subrahmanyan Chandrasekhar",
+        "Lev Landau",
+        "J. Robert Oppenheimer",
+        "Roger Penrose",
+        "Stephen Hawking",
+        "Jocelyn Bell Burnell",
+        "Antony Hewish",
+        "Reinhard Genzel",
+        "Andrea Ghez",
+        "Event Horizon Telescope Collaboration"
+      ],
+      "title": "Compact stars and black holes",
+      "when": "1930s-2019"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The 1948 calculation of primordial element abundances in a hot Big Bang.",
+          "title": "Alpher-Bethe-Gamow paper"
+        },
+        {
+          "note": "Weak interactions decouple near 1 MeV, fixing the neutron-to-proton ratio at about 1/7.",
+          "title": "Neutron-proton freeze-out"
+        },
+        {
+          "note": "Deuterium formation waits until the temperature falls to about 0.1 MeV, starting nucleosynthesis.",
+          "title": "Deuterium bottleneck"
+        },
+        {
+          "note": "Predicted H, D, ³He, ⁴He and ⁷Li abundances broadly match observation, with a lingering lithium problem.",
+          "title": "Primordial abundances"
+        }
+      ],
+      "note": "Alpher, Bethe and Gamow (1948) showed that the hot early universe synthesized light nuclei, predicting roughly 25% helium by mass. Alpher and Herman also predicted the relic radiation left over from that epoch.",
+      "people": [
+        "George Gamow",
+        "Ralph Alpher",
+        "Robert Herman"
+      ],
+      "title": "Big Bang nucleosynthesis",
+      "when": "1948"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The accidental 1965 detection of isotropic 2.7 K microwave noise at Bell Labs.",
+          "title": "Penzias-Wilson discovery"
+        },
+        {
+          "note": "The 1990 FIRAS measurement matched a Planck spectrum to extraordinary precision, T = 2.725 K.",
+          "title": "COBE blackbody spectrum"
+        },
+        {
+          "note": "WMAP and Planck map temperature anisotropies and pin down cosmological parameters.",
+          "title": "CMB acoustic peaks"
+        },
+        {
+          "note": "Neutral atoms formed near redshift z ≈ 1100, letting photons free-stream to us.",
+          "title": "Recombination and decoupling"
+        }
+      ],
+      "note": "Penzias and Wilson detected an unexpected isotropic 2.7 K microwave background in 1965, quickly interpreted by Dicke's group as relic radiation from the hot Big Bang. COBE's FIRAS measured its blackbody spectrum in 1990 and its DMR found the tiny anisotropies in 1992 that seed structure.",
+      "people": [
+        "Arno Penzias",
+        "Robert Wilson",
+        "Robert Dicke",
+        "Jim Peebles",
+        "John Mather",
+        "George Smoot"
+      ],
+      "title": "Cosmic microwave background",
+      "when": "1965"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Regions of the CMB farther apart than the causal horizon nonetheless share the same temperature.",
+          "title": "Horizon problem"
+        },
+        {
+          "note": "Inflation drives the density parameter Ω toward 1, explaining the near-flat geometry.",
+          "title": "Flatness problem"
+        },
+        {
+          "note": "A scalar field rolling slowly gives near-exponential expansion, a(t) ∝ e^{Ht}, and density perturbations.",
+          "title": "Slow-roll inflation"
+        },
+        {
+          "note": "An open search for inflationary gravitational waves imprinted on CMB polarization.",
+          "title": "Primordial B-modes"
+        }
+      ],
+      "note": "Starobinsky (1980) and Guth (1981) proposed a brief exponential expansion that solves the horizon and flatness problems and seeds cosmic structure. Linde, Albrecht and Steinhardt developed the slow-roll variants in 1982.",
+      "people": [
+        "Alexei Starobinsky",
+        "Alan Guth",
+        "Andrei Linde",
+        "Paul Steinhardt",
+        "Andreas Albrecht"
+      ],
+      "title": "Cosmic inflation",
+      "when": "1980s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "High-redshift Type Ia supernovae reveal that cosmic expansion is speeding up.",
+          "title": "Accelerating universe (1998)"
+        },
+        {
+          "note": "Vacuum energy with negative pressure, obeying w = p/ρc² ≈ -1, drives the acceleration.",
+          "title": "Cosmological constant Λ"
+        },
+        {
+          "note": "A six-parameter model with cold dark matter and Λ fits CMB, BAO and supernova data, H² = 8πGρ/3 + Λc²/3 - kc²/a².",
+          "title": "ΛCDM model"
+        },
+        {
+          "note": "The 2005 SDSS and 2dFGRS detections of the ~150 Mpc BAO feature provided a standard ruler for mapping the expansion history.",
+          "title": "Baryon acoustic oscillations"
+        }
+      ],
+      "note": "In 1998 two supernova teams found distant Type Ia supernovae fainter than expected, implying accelerating expansion driven by dark energy with equation of state w ≈ -1. ΛCDM now fits CMB, supernova and BAO data, although local and early-universe H₀ measurements disagree.",
+      "people": [
+        "Saul Perlmutter",
+        "Brian Schmidt",
+        "Adam Riess",
+        "Dark Energy Survey Collaboration",
+        "Planck Collaboration"
+      ],
+      "title": "Dark energy and ΛCDM",
+      "when": "1998-2018"
+    }
+  ]
+}

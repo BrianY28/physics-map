@@ -1,0 +1,198 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Dark lines arise when cooler solar gases absorb specific wavelengths from the continuous photosphere.",
+          "title": "Solar absorption spectrum"
+        },
+        {
+          "note": "The prominent D lines near 589 nm were later identified with sodium.",
+          "title": "Fraunhofer D lines"
+        },
+        {
+          "note": "Fraunhofer's gratings enabled accurate measurement of spectral line wavelengths.",
+          "title": "Diffraction grating"
+        },
+        {
+          "note": "Each chemical element has a unique emission and absorption spectrum, founding analytical spectroscopy.",
+          "title": "Kirchhoff–Bunsen law"
+        }
+      ],
+      "note": "Fraunhofer mapped the dark absorption lines of the solar spectrum and labeled the principal ones, turning spectroscopy into a precision probe of matter. Kirchhoff and Bunsen later explained in 1859 that each element produces a characteristic set of lines.",
+      "people": [
+        "Joseph von Fraunhofer",
+        "Gustav Kirchhoff",
+        "Robert Bunsen"
+      ],
+      "title": "Fraunhofer lines",
+      "when": "1814"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The formula predicts the wavelengths of the visible hydrogen series from a simple integer relation.",
+          "title": "Balmer formula"
+        },
+        {
+          "note": "The n = 3 to n = 2 transition gives the red H-alpha line at 656.3 nm.",
+          "title": "H-alpha line"
+        },
+        {
+          "note": "Rydberg generalized the pattern to 1/λ = R(1/n₁² − 1/n₂²) for all hydrogen series.",
+          "title": "Rydberg formula"
+        },
+        {
+          "note": "Bohr's quantized angular momentum L = nħ reproduced the Balmer formula and introduced atomic energy levels.",
+          "title": "Bohr explanation"
+        }
+      ],
+      "note": "Balmer found an empirical formula fitting the visible hydrogen lines, 1/λ = R(1/4 − 1/n²) for n = 3, 4, ..., with R the Rydberg constant. Bohr derived it in 1913 from quantized electron orbits.",
+      "people": [
+        "Johann Jakob Balmer",
+        "Johannes Rydberg",
+        "Niels Bohr"
+      ],
+      "title": "Balmer series",
+      "when": "1885"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The normal pattern has frequency shifts Δν = 0, ±eB/(4πmₑ), equivalent to energy shifts ΔE = μB B m_l.",
+          "title": "Normal Zeeman triplet"
+        },
+        {
+          "note": "Many lines split into patterns not explained classically, pointing to spin and angular-momentum coupling.",
+          "title": "Anomalous Zeeman effect"
+        },
+        {
+          "note": "The g-factor parametrizes the magnetic moment of a coupled atomic state.",
+          "title": "Landé g-factor"
+        },
+        {
+          "note": "The emitted components have polarizations fixed by the change in magnetic quantum number.",
+          "title": "Polarization selection rules"
+        }
+      ],
+      "note": "Zeeman observed that magnetic fields split spectral lines, and Lorentz explained the normal triplet using classical electron oscillators. The anomalous Zeeman effect later required electron spin and the Landé g-factor.",
+      "people": [
+        "Pieter Zeeman",
+        "Hendrik Lorentz",
+        "Alfred Landé"
+      ],
+      "title": "Zeeman effect",
+      "when": "1896"
+    },
+    {
+      "concepts": [
+        {
+          "note": "A₂₁ gives spontaneous emission, while B₁₂ and B₂₁ give absorption and stimulated emission rates.",
+          "title": "A and B coefficients"
+        },
+        {
+          "note": "The emitted photon has the same frequency, phase, and direction as the stimulating photon.",
+          "title": "Stimulated photon amplification"
+        },
+        {
+          "note": "A nonequilibrium state with more atoms in the upper level is needed for net stimulated amplification.",
+          "title": "Population inversion"
+        },
+        {
+          "note": "Detailed balance gives A₂₁/B₂₁ = 8πhν³/c³ and B₁₂ = B₂₁ for nondegenerate levels.",
+          "title": "Einstein relations"
+        }
+      ],
+      "note": "Einstein introduced spontaneous and stimulated emission through A and B coefficients, showing that an incident photon can trigger emission of an identical photon. This process is the basis of masers and lasers.",
+      "people": [
+        "Albert Einstein"
+      ],
+      "title": "Stimulated emission",
+      "when": "1917"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The Cs-133 ground-state hyperfine splitting provides a stable, reproducible frequency standard.",
+          "title": "Caesium hyperfine transition"
+        },
+        {
+          "note": "Two separated microwave interactions produce a narrow interference fringe used to lock the clock.",
+          "title": "Ramsey separated fields"
+        },
+        {
+          "note": "The SI second is defined by ν = ΔE/h = 9,192,631,770 Hz for the Cs-133 hyperfine transition.",
+          "title": "SI second definition"
+        }
+      ],
+      "note": "Essen and Parry built the first practical caesium-beam atomic clock at the National Physical Laboratory, locking an oscillator to the Cs-133 hyperfine transition. The 1967 SI second was defined as 9,192,631,770 cycles of that transition.",
+      "people": [
+        "Louis Essen",
+        "Jack Parry",
+        "Isidor Rabi",
+        "Norman Ramsey"
+      ],
+      "title": "Atomic clock",
+      "when": "1955"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Maiman's ruby laser emitted at 694.3 nm and established the laser as a practical device.",
+          "title": "Ruby laser"
+        },
+        {
+          "note": "Optical pumping creates more atoms in the upper laser level than the lower level.",
+          "title": "Population inversion"
+        },
+        {
+          "note": "Mirrors provide feedback and select longitudinal and transverse modes.",
+          "title": "Optical resonator"
+        },
+        {
+          "note": "Oscillation starts when round-trip gain exceeds loss, approximately R₁R₂ exp(2gL) ≥ 1.",
+          "title": "Laser threshold"
+        }
+      ],
+      "note": "Maiman demonstrated the first laser, a flashlamp-pumped ruby rod, in 1960, using stimulated emission in a population-inverted medium. Schawlow and Townes had proposed the optical maser/laser concept in 1958.",
+      "people": [
+        "Theodore Maiman",
+        "Arthur Schawlow",
+        "Charles Townes",
+        "Gordon Gould"
+      ],
+      "title": "Laser",
+      "when": "1960"
+    },
+    {
+      "concepts": [
+        {
+          "note": "The JILA experiment cooled Rb-87 atoms in a magnetic trap to nanokelvin temperatures.",
+          "title": "Rubidium-87 condensate"
+        },
+        {
+          "note": "Ketterle's MIT group achieved BEC in sodium and observed matter-wave interference.",
+          "title": "Sodium condensate"
+        },
+        {
+          "note": "The condensate is described by a single complex order parameter with coherent phase.",
+          "title": "Macroscopic wavefunction"
+        },
+        {
+          "note": "Mean-field theory gives iħ∂ψ/∂t = (−ħ²/2m ∇² + V + g|ψ|²)ψ.",
+          "title": "Gross-Pitaevskii equation"
+        }
+      ],
+      "note": "Predicted by Bose and Einstein in 1924–25, a BEC was first realized in dilute atomic gases by Cornell and Wieman in rubidium-87 at JILA in 1995, followed by Ketterle's sodium condensate at MIT. Below a critical temperature, bosons macroscopically occupy the same quantum state.",
+      "people": [
+        "Satyendra Nath Bose",
+        "Albert Einstein",
+        "Eric Cornell",
+        "Carl Wieman",
+        "Wolfgang Ketterle"
+      ],
+      "title": "Bose-Einstein condensate",
+      "when": "1995"
+    }
+  ]
+}

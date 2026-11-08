@@ -1,0 +1,23 @@
+{"tag": "skeleton", "attempt": 1, "ts": "20:27:34", "secs": 41.9, "prompt_tokens": 683, "out_tokens": 15789, "thinking_chars": 52105, "via": "tool_call", "ok": true}
+{"tag": "branch-newtonian-mechanics", "attempt": 1, "ts": "20:30:05", "secs": 11.1, "prompt_tokens": 890, "out_tokens": 2539, "thinking_chars": 3628, "via": "tool_call", "ok": true}
+{"tag": "branch-quantum-mechanics-qft", "attempt": 1, "ts": "20:30:05", "secs": 22.6, "prompt_tokens": 923, "out_tokens": 6009, "thinking_chars": 16606, "via": "tool_call", "ok": true}
+{"tag": "branch-electromagnetism-optics", "attempt": 1, "ts": "20:30:05", "secs": 25.5, "prompt_tokens": 916, "out_tokens": 6376, "thinking_chars": 20032, "via": "tool_call", "ok": true}
+{"tag": "branch-thermodynamics-statmech", "attempt": 1, "ts": "20:30:05", "secs": 29.6, "prompt_tokens": 894, "out_tokens": 5410, "thinking_chars": 16132, "via": "tool_call", "ok": true}
+{"tag": "branch-relativity-gravitation", "attempt": 1, "ts": "20:30:16", "secs": 18.4, "prompt_tokens": 911, "out_tokens": 1822, "thinking_chars": 7147, "ok": false, "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"}
+{"tag": "branch-nuclear-particle", "attempt": 1, "ts": "20:30:28", "secs": 29.4, "prompt_tokens": 907, "out_tokens": 7067, "thinking_chars": 18303, "via": "tool_call", "ok": true}
+{"tag": "branch-amo-physics", "attempt": 1, "ts": "20:30:30", "secs": 34.9, "prompt_tokens": 895, "out_tokens": 8874, "thinking_chars": 25834, "via": "tool_call", "ok": true}
+{"tag": "branch-condensed-matter", "attempt": 1, "ts": "20:30:34", "secs": 31.6, "prompt_tokens": 904, "out_tokens": 8930, "thinking_chars": 26372, "via": "tool_call", "ok": true}
+{"tag": "branch-relativity-gravitation", "attempt": 2, "ts": "20:30:35", "secs": 39.5, "prompt_tokens": 911, "out_tokens": 4724, "thinking_chars": 12060, "via": "tool_call", "ok": true}
+{"tag": "branch-astrophysics-cosmology", "attempt": 1, "ts": "20:30:57", "secs": 29.1, "prompt_tokens": 920, "out_tokens": 5351, "thinking_chars": 12005, "via": "tool_call", "ok": true}
+{"tag": "branch-fluids-plasmas-complexity", "attempt": 1, "ts": "20:31:05", "secs": 23.1, "prompt_tokens": 915, "out_tokens": 5811, "thinking_chars": 13483, "via": "tool_call", "ok": true}
+{"tag": "branch-open-frontier-2026", "attempt": 1, "ts": "20:31:06", "secs": 53.1, "prompt_tokens": 934, "out_tokens": 14583, "thinking_chars": 42599, "via": "tool_call", "ok": true}
+{"tag": "revise-electromagnetism-optics", "attempt": 1, "ts": "20:33:57", "secs": 5.5, "prompt_tokens": 2679, "out_tokens": 1996, "thinking_chars": 2225, "via": "tool_call", "ok": true}
+{"tag": "revise-amo-physics", "attempt": 1, "ts": "20:33:57", "secs": 6.4, "prompt_tokens": 3023, "out_tokens": 2333, "thinking_chars": 2259, "via": "tool_call", "ok": true}
+{"tag": "revise-astrophysics-cosmology", "attempt": 1, "ts": "20:33:57", "secs": 6.6, "prompt_tokens": 3665, "out_tokens": 2463, "thinking_chars": 814, "via": "tool_call", "ok": true}
+{"tag": "revise-condensed-matter", "attempt": 1, "ts": "20:33:57", "secs": 11.2, "prompt_tokens": 3225, "out_tokens": 2134, "thinking_chars": 544, "via": "tool_call", "ok": true}
+{"tag": "revise-fluids-plasmas-complexity", "attempt": 1, "ts": "20:34:02", "secs": 6.6, "prompt_tokens": 3401, "out_tokens": 2261, "thinking_chars": 400, "via": "tool_call", "ok": true}
+{"tag": "revise-newtonian-mechanics", "attempt": 1, "ts": "20:34:03", "secs": 6.2, "prompt_tokens": 2887, "out_tokens": 2065, "thinking_chars": 2196, "via": "tool_call", "ok": true}
+{"tag": "revise-quantum-mechanics-qft", "attempt": 1, "ts": "20:34:08", "secs": 6.8, "prompt_tokens": 3084, "out_tokens": 2247, "thinking_chars": 2125, "via": "tool_call", "ok": true}
+{"tag": "revise-relativity-gravitation", "attempt": 1, "ts": "20:34:09", "secs": 9.1, "prompt_tokens": 2859, "out_tokens": 3018, "thinking_chars": 5740, "via": "tool_call", "ok": true}
+{"tag": "revise-thermodynamics-statmech", "attempt": 1, "ts": "20:34:10", "secs": 9.2, "prompt_tokens": 2755, "out_tokens": 1657, "thinking_chars": 428, "via": "tool_call", "ok": true}
+{"tag": "revise-open-frontier-2026", "attempt": 1, "ts": "20:34:04", "secs": 25.2, "prompt_tokens": 5479, "out_tokens": 7260, "thinking_chars": 12398, "via": "tool_call", "ok": true}

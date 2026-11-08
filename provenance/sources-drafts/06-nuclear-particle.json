@@ -1,0 +1,136 @@
+{
+ "nodes": [
+  {
+   "id": "radioactivity",
+   "sources": [
+    {
+     "citation": "Becquerel, H. (1896). Sur les radiations émises par phosphorescence [On the radiations emitted by phosphorescence]. Comptes Rendus de l'Académie des Sciences, 122, 420–421.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Curie, P., & Curie, M. (1898). Sur une substance nouvelle radio-active, contenue dans la pechblende [On a new radioactive substance contained in pitchblende]. Comptes Rendus de l'Académie des Sciences, 127, 175–178.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Rutherford, E., & Soddy, F. (1903). Radioactive change. Philosophical Magazine, 5, 576–591.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "rutherford-nucleus",
+   "sources": [
+    {
+     "citation": "Rutherford, E. (1911). The scattering of α and β particles by matter and the structure of the atom. Philosophical Magazine, 21, 669–688.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Geiger, H., & Marsden, E. (1909). On a diffuse reflection of the α-particles. Proceedings of the Royal Society A, 82, 495–500.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "neutron-and-neutrino",
+   "sources": [
+    {
+     "citation": "Chadwick, J. (1932). Possible existence of a neutron. Nature, 129, 312.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Fermi, E. (1934). Versuch einer Theorie der β-Strahlen. I [Attempt at a theory of beta rays. I]. Zeitschrift für Physik, 88, 161–177.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Cowan, C. L., Reines, F., Harrison, F. B., et al. (1956). Detection of the free neutrino: A confirmation. Science, 124, 103–104.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "fission-and-fusion",
+   "sources": [
+    {
+     "citation": "Hahn, O., & Strassmann, F. (1939). Über den Nachweis und das Verhalten der bei der Bestrahlung des Urans mittels Neutronen entstehenden Erdalkalimetalle [On the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons]. Naturwissenschaften, 27, 11–15.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Meitner, L., & Frisch, O. R. (1939). Disintegration of uranium by neutrons: A new type of nuclear reaction. Nature, 143, 239–240.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Bethe, H. A. (1939). Energy production in stars. Physical Review, 55, 434–456.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "quark-model",
+   "sources": [
+    {
+     "citation": "Gell-Mann, M. (1964). A schematic model of baryons and mesons. Physics Letters, 8, 214–215.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Gell-Mann, M., & Ne'eman, Y. (1964). The Eightfold Way. W. A. Benjamin.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Zweig, G. (1964). An SU(3) model for strong interaction symmetry and its breaking. CERN Report TH.401.",
+     "confidence": "medium"
+    }
+   ]
+  },
+  {
+   "id": "electroweak-unification",
+   "sources": [
+    {
+     "citation": "Glashow, S. L. (1961). Partial-symmetries of weak interactions. Nuclear Physics, 22, 579–588.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Weinberg, S. (1967). A model of leptons. Physical Review Letters, 19, 1264–1266.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Salam, A. (1968). Weak and electromagnetic interactions. In N. Svartholm (Ed.), Elementary Particle Theory: Relativistic Groups and Analyticity (Nobel Symposium No. 8) (pp. 367–377). Almqvist & Wiksell.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "quantum-chromodynamics",
+   "sources": [
+    {
+     "citation": "Fritzsch, H., Gell-Mann, M., & Leutwyler, H. (1973). Advantages of the color octet gluon picture. Physics Letters B, 47, 365–368.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Gross, D. J., & Wilczek, F. (1973). Ultraviolet behavior of non-Abelian gauge theories. Physical Review Letters, 30, 1343–1346.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Politzer, H. D. (1973). Reliable perturbative results for strong interactions? Physical Review Letters, 30, 1346–1349.",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "id": "higgs-boson",
+   "sources": [
+    {
+     "citation": "Englert, F., & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. Physical Review Letters, 13, 321–323.",
+     "confidence": "high"
+    },
+    {
+     "citation": "Higgs, P. W. (1964). Broken symmetries and the masses of gauge bosons. Physical Review Letters, 13, 508–509.",
+     "confidence": "high"
+    },
+    {
+     "citation": "ATLAS Collaboration (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. Physics Letters B, 716, 1–29.",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

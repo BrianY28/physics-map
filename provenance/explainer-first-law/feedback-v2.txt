@@ -1,0 +1,4 @@
+Review of v2: all 13 fixes from the last round are confirmed in the browser. Two small polish items remain. Change nothing else.
+
+1. Plate III end state: when the ball stops at the front wall, it is drawn about half outside the bus outline (its centre sits on the wall line). Stop the ball so it rests just inside the front wall, touching it, in both Street view and Passenger view, at every canvas width.
+2. Plate III, Passenger view: the bus's on-canvas arrow label reads "bus 2.0 m/s" while the bus is drawn at rest in this frame, which is confusing. In Passenger view label it as the ground speed, for example "bus 2.0 m/s (ground)". Leave Street view as it is.

@@ -1,0 +1,4 @@
+The branch stops in the 1990s. Bring it up to date without adding subtopics:
+1. Atomic clock: add a concept "Optical clocks": optical lattice and ion clocks (2000s onward, using frequency combs: Hall and Hänsch, Nobel 2005) now reach about 10⁻¹⁸ fractional uncertainty, and a redefinition of the SI second is being prepared.
+2. Laser: replace the "Laser threshold" concept with "Ultrafast and attosecond lasers": chirped pulse amplification (Strickland and Mourou, 1985; Nobel 2018) and attosecond pulses (Agostini, Krausz and L'Huillier; Nobel 2023).
+3. Bose-Einstein condensate: replace the "Sodium condensate" concept with "Laser cooling and trapping": Chu, Cohen-Tannoudji and Phillips (1980s; Nobel 1997) made BEC possible. Keep Ketterle's sodium condensate in the note.

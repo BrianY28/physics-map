@@ -1,0 +1,215 @@
+{
+  "subtopics": [
+    {
+      "concepts": [
+        {
+          "note": "Cauchy's 1822 stress principle represents surface traction as a tensor, which yields the viscous term μ∇²u in the momentum equation.",
+          "title": "Cauchy stress tensor"
+        },
+        {
+          "note": "When inertia is negligible the equations linearize, giving Stokes flow and the drag law F = 6πμRv for a sphere (1851).",
+          "title": "Stokes flow and drag"
+        },
+        {
+          "note": "Matching fluid velocity to solid walls closes the boundary-value problem, though slip appears in rarefied, microfluidic and superhydrophobic regimes.",
+          "title": "No-slip boundary condition"
+        },
+        {
+          "note": "Whether smooth three-dimensional solutions exist for all time and all smooth data is an unsolved Clay Millennium Prize problem (2000).",
+          "title": "Existence and smoothness (open)"
+        }
+      ],
+      "note": "These equations express momentum balance for a viscous Newtonian fluid, combining inertia with pressure and viscous stress: ρ(∂u/∂t + u·∇u) = −∇p + μ∇²u + f, with ∇·u = 0 for incompressible flow. Navier (1822) and Stokes (1845) introduced the viscous term through Cauchy's stress tensor.",
+      "people": [
+        "Claude-Louis Navier",
+        "Augustin-Louis Cauchy",
+        "Siméon Denis Poisson",
+        "George Gabriel Stokes"
+      ],
+      "title": "Navier-Stokes equations",
+      "when": "1822-1845"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Reynolds' 1883 pipe experiments showed laminar flow gives way to turbulence near Re = ρUL/μ ≈ 2000.",
+          "title": "Reynolds number"
+        },
+        {
+          "note": "Kolmogorov's similarity hypotheses (1941) give E(k) ∝ k^(−5/3) and the exact four-fifths law for third-order structure functions.",
+          "title": "Kolmogorov −5/3 spectrum"
+        },
+        {
+          "note": "Prandtl (1904) showed viscous effects confine to thin layers near walls, reconciling ideal-flow theory with observed drag and separation.",
+          "title": "Boundary-layer theory"
+        },
+        {
+          "note": "Averaging the equations generates unknown velocity correlations, so RANS and large-eddy models remain partly empirical — an open modeling question.",
+          "title": "Closure problem"
+        }
+      ],
+      "note": "Above a critical Reynolds number flow becomes chaotic and energy cascades from large eddies to small ones where viscosity dissipates it. Kolmogorov's 1941 theory predicts the inertial-range spectrum E(k) ∝ ε^(2/3) k^(−5/3).",
+      "people": [
+        "Osborne Reynolds",
+        "Ludwig Prandtl",
+        "Geoffrey Ingram Taylor",
+        "Theodore von Kármán",
+        "Andrey Kolmogorov"
+      ],
+      "title": "Turbulence",
+      "when": "1883-1941"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Debye and Hückel (1923) gave the screening length λ_D = √(ε₀kT/ne²), the scale over which a plasma neutralizes charge imbalances.",
+          "title": "Debye shielding"
+        },
+        {
+          "note": "Langmuir (1928) found collective electron oscillations at ω_p = √(ne²/ε₀m) and coined the term 'plasma' for the ionized state.",
+          "title": "Plasma oscillations"
+        },
+        {
+          "note": "Alfvén (1942) predicted transverse waves propagating along field lines at v_A = B/√(μ₀ρ), the cornerstone of MHD.",
+          "title": "Alfvén waves"
+        },
+        {
+          "note": "Field lines break and rejoin, releasing magnetic energy in solar flares and tokamak disruptions; the fast reconnection rate remains debated.",
+          "title": "Magnetic reconnection"
+        }
+      ],
+      "note": "In ionized gas, long-range Coulomb forces make particles act collectively over the Debye length, supporting waves and instabilities. Ideal magnetohydrodynamics couples fluid momentum to Maxwell's fields: ρ(∂u/∂t + u·∇u) = J×B − ∇p with ∂B/∂t = ∇×(u×B).",
+      "people": [
+        "Irving Langmuir",
+        "Peter Debye",
+        "Hannes Alfvén",
+        "Lev Landau",
+        "Sydney Chapman"
+      ],
+      "title": "Plasma physics and MHD",
+      "when": "1920s-1940s"
+    },
+    {
+      "concepts": [
+        {
+          "note": "A positive Lyapunov exponent makes small errors grow as δ(t) ≈ δ₀e^(λt), setting a finite predictability horizon.",
+          "title": "Sensitive dependence"
+        },
+        {
+          "note": "Lorenz's 1963 three-variable convection equations produce a strange attractor of fractal geometry, popularized as the butterfly effect.",
+          "title": "Lorenz attractor"
+        },
+        {
+          "note": "Poincaré's 1890 work on the three-body problem found intersecting stable and unstable manifolds, a geometric mechanism for chaos.",
+          "title": "Homoclinic tangles"
+        },
+        {
+          "note": "Kolmogorov (1954) with Arnold and Moser (1962-63) proved most invariant tori survive small perturbations, delimiting where chaos appears.",
+          "title": "KAM theorem"
+        }
+      ],
+      "note": "Nonlinear deterministic systems can display sensitive dependence on initial conditions, so nearby trajectories separate exponentially and long-term prediction fails. Poincaré found the geometry in the three-body problem (1890) and Lorenz exhibited it in a truncated convection model (1963).",
+      "people": [
+        "Henri Poincaré",
+        "Edward Lorenz",
+        "Stephen Smale",
+        "Andrey Kolmogorov",
+        "Vladimir Arnold",
+        "Jürgen Moser"
+      ],
+      "title": "Chaos",
+      "when": "1890-1963"
+    },
+    {
+      "concepts": [
+        {
+          "note": "John Scott Russell observed in 1834 a solitary water wave that traveled for miles without changing shape.",
+          "title": "Wave of translation"
+        },
+        {
+          "note": "Korteweg and de Vries (1895) derived u_t + u u_x + δ²u_xxx = 0, balancing nonlinearity against dispersion.",
+          "title": "Korteweg-de Vries equation"
+        },
+        {
+          "note": "Gardner, Greene, Kruskal and Miura (1967) solved KdV by mapping it to a linear scattering problem, revealing infinitely many conservation laws.",
+          "title": "Inverse scattering transform"
+        },
+        {
+          "note": "Hasegawa and Tappert (1973) predicted nonlinear Schrödinger solitons in optical fibers, now exploited in long-haul communications.",
+          "title": "Optical solitons"
+        }
+      ],
+      "note": "A soliton is a localized wave that survives collisions unchanged because nonlinear steepening exactly balances dispersion. Zabusky and Kruskal coined the name in 1965 while numerically studying the Korteweg–de Vries equation u_t + u u_x + δ² u_xxx = 0.",
+      "people": [
+        "Norman Zabusky",
+        "Martin Kruskal",
+        "John Scott Russell",
+        "Diederik Korteweg",
+        "Gustav de Vries"
+      ],
+      "title": "Solitons",
+      "when": "1965"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Flory (1941) and Huggins described polymer solutions and blends with a lattice free energy governed by the interaction parameter χ.",
+          "title": "Flory-Huggins theory"
+        },
+        {
+          "note": "de Gennes (1971) and Doi-Edwards (1978) model entangled chains sliding in a tube, giving τ ~ N³ stress relaxation.",
+          "title": "Reptation and tube model"
+        },
+        {
+          "note": "Onsager (1949) and de Gennes explained orientational order and its nematic-isotropic transitions in rod-like and molecular materials.",
+          "title": "Liquid crystals"
+        },
+        {
+          "note": "Optical tweezers, FRET and cryo-EM since the 1990s measure forces and conformational changes in individual proteins, DNA and molecular motors.",
+          "title": "Single-molecule biophysics"
+        }
+      ],
+      "note": "Soft matter is governed by thermal energy kT and entropy, so weak interactions and Brownian motion set mesoscopic structure. Canonical results include polymer scaling R_F ~ N^(3/5)a and reptation dynamics with relaxation time τ ~ N³.",
+      "people": [
+        "Paul Flory",
+        "Pierre-Gilles de Gennes",
+        "Sam Edwards",
+        "Masao Doi",
+        "Lars Onsager"
+      ],
+      "title": "Soft matter and biophysics",
+      "when": "1950s-present"
+    },
+    {
+      "concepts": [
+        {
+          "note": "Bak, Tang and Wiesenfeld (1987) showed a cellular-automaton sandpile drives itself to a critical slope with power-law avalanche sizes.",
+          "title": "Sandpile model"
+        },
+        {
+          "note": "Critical states generate scale-free fluctuations, linking earthquakes, forest fires and neuronal avalanches to a common statistical signature.",
+          "title": "1/f noise and power laws"
+        },
+        {
+          "note": "Watts and Strogatz (1998) found that a few random rewires sharply reduce path length while preserving high clustering.",
+          "title": "Small-world networks"
+        },
+        {
+          "note": "Extending the period, Barabási and Albert (1999) showed preferential attachment yields P(k) ~ k^(−3), so a few hubs dominate robustness and spreading.",
+          "title": "Scale-free networks"
+        }
+      ],
+      "note": "Slowly driven dissipative systems can organize themselves into a critical state without external tuning, yielding power-law avalanche statistics P(s) ~ s^(−τ). Network science then showed that topology, from small-world to scale-free structure, controls collective behaviour.",
+      "people": [
+        "Per Bak",
+        "Chao Tang",
+        "Kurt Wiesenfeld",
+        "Duncan Watts",
+        "Steven Strogatz",
+        "Albert-László Barabási"
+      ],
+      "title": "Self-organized criticality and networks",
+      "when": "1987-1998"
+    }
+  ]
+}

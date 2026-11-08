@@ -1,0 +1,4 @@
+{"tag": "v1", "ts": "21:09:25", "secs": 245.0, "prompt_tokens": 1738, "out_tokens": 57557, "thinking_chars": 134902, "done_reason": "stop", "extracted": true}
+{"tag": "v2", "ts": "21:14:49", "secs": 67.0, "prompt_tokens": 19247, "out_tokens": 30805, "thinking_chars": 42857, "done_reason": "stop", "extracted": true}
+{"tag": "v3", "ts": "21:17:10", "secs": 57.3, "prompt_tokens": 19023, "out_tokens": 20239, "thinking_chars": 9924, "done_reason": "stop", "extracted": true}
+{"tag": "v4", "ts": "21:18:44", "secs": 41.8, "prompt_tokens": 19176, "out_tokens": 18708, "thinking_chars": 5359, "done_reason": "stop", "extracted": true}

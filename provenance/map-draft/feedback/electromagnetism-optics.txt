@@ -1,0 +1,2 @@
+1. Coulomb's law: the concept "Inverse-square law" duplicates a concept in the Newtonian mechanics branch. Rename it "Electrostatic 1/r² law".
+2. Maxwell equations / "Four field equations": Maxwell's 1865 paper had about 20 equations in component form; Oliver Heaviside condensed them into the four vector equations in 1884. Say so, and add Oliver Heaviside to people.
