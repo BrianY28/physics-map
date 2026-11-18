@@ -40,3 +40,12 @@ Verified in a browser at 1280px and 400px, light and dark: v(t) = 6 − μgt, d 
 - README, CONTRIBUTING, issue forms and PR template drafted by DeepSeek from briefs in `briefs/`; one fix round for README/CONTRIBUTING (provenance paragraph, sources wording, DOI rule, code-block languages). Issue forms validated as YAML.
 - Newton's first law page shortened by DeepSeek (v5): 1,625 -> 933 words including plate labels; history collapsed; misconceptions folded into the plates; simulation script byte-identical to reviewed v4; MindNode links replaced by the public map and GitHub links. All three simulations re-tested.
 - Build tooling (tools/build.py, nodelib.py) and workflows written by Claude. Site tested in a browser: 82 topics link to their files; dark-mode text colour bug found and fixed.
+
+## Round 5: map page fills the window (17 November 2026)
+Request: make the mind map use more of the page.
+- Measured the old page (markmap, one-sided tree) at 1920×1000: the map used 23% of the width; rows were 8 px tall. Cause: all 82 topics stacked on one side.
+- New renderer `tools/site/map.js` + `map.css`, written by DeepSeek from `briefs/map-renderer.md`: two-sided layout on landscape windows (6 branches left, 5 right), one-sided on portrait phones; d3 v7 (pinned, with an integrity hash) only for zoom and pan. markmap is no longer used.
+- DeepSeek attempt 1 failed again by drafting the whole file inside its reasoning (65k-token limit hit; kept in `logs/failed/`). Fix: `tools/draft/deepseek.py write --think=low` and a 131k budget. Attempt 2 delivered in 141 s.
+- Review of v1 (code read in full, then browser tests with `pipeline/map-audit.js`): one bug (children of left-side branches drawn on top of their branch title: `side` not passed down) and three refinements (toggle circles touching label text; expanded concepts landing off-screen; `<title>` order). Sent as `map-renderer/feedback-v1.md`; v2 diff contained only those changes.
+- Verified v2 at 1920×1000, 1400×860 and 400×800, light and dark: 91% of width and 96% of height used at 1920×1000, 20 px rows; no overlapping labels in any state including all 326 concepts open; 93 links correct; wheel zoom, drag to pan, drag starting on a label (pans, does not open the link), click, Enter/Space toggling, toolbar and tooltips all work; no console errors.
+- Page template and build wiring (`tools/build.py`) by Claude: slimmer header (34 px, was 45), how-to text moved into the header, cache-busting version on `map.js`/`map.css`.

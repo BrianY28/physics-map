@@ -14,6 +14,7 @@ Nothing here is needed to build the map.
 | `explainer-first-law/` | Every version of the Newton's first law page (v1 to v5), the brief and the feedback for each round. |
 | `briefs/` | The instructions given to DeepSeek for the README, CONTRIBUTING, issue forms and page rewrite. |
 | `drafts/` | First drafts of README and CONTRIBUTING, before the last review round. |
+| `map-renderer/` | Both DeepSeek versions of the live map's renderer and the review feedback between them. |
 | `pipeline/` | The scripts used for the first drafts and checks (written for the earlier JSON layout; kept for reference). |
 | `logs/` | One line per DeepSeek call: time taken, tokens, result. |
 

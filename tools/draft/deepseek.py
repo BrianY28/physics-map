@@ -4,7 +4,7 @@ Every draft is reviewed by a person (or another model) before it is merged.
 
 Usage:
   python3 tools/draft/deepseek.py sources nodes/01-newtonian-mechanics   # -> provenance/sources-drafts/<dir>.json
-  python3 tools/draft/deepseek.py write BRIEF.md [CONTEXT_FILE ...]       # writes every ```lang path=FILE fence
+  python3 tools/draft/deepseek.py write [--think=low|high] BRIEF.md [CONTEXT_FILE ...]   # drafts every path=FILE fence
 
 Calls are logged to provenance/logs/deepseek.jsonl. Needs `ollama` running and signed in.
 """
@@ -25,7 +25,7 @@ SYSTEM = ("You are a careful physicist, historian of science and technical write
 def call(tag, messages, tools=None, think="high"):
     LOGS.mkdir(parents=True, exist_ok=True)
     body = {"model": MODEL, "stream": False, "think": think, "messages": messages,
-            "options": {"temperature": 0.3, "num_predict": 65536}}
+            "options": {"temperature": 0.3, "num_predict": 131072}}
     if tools:
         body["tools"] = tools
     t0 = time.time()
@@ -84,7 +84,7 @@ def sources(branch_dir):
     raise SystemExit("no complete answer")
 
 
-def write(brief, context_files):
+def write(brief, context_files, think="high"):
     parts = [Path(brief).read_text()]
     for c in context_files:
         parts.append(f"\n\n===== CONTEXT FILE: {c} =====\n" + (ROOT / c).read_text())
@@ -92,7 +92,7 @@ def write(brief, context_files):
                  "````markdown path=README.md\n...file content (may contain ordinary ``` code blocks)...\n````\n"
                  "Return nothing else.")
     tag = "write-" + Path(brief).stem
-    m = call(tag, [{"role": "system", "content": SYSTEM}, {"role": "user", "content": "".join(parts)}])
+    m = call(tag, [{"role": "system", "content": SYSTEM}, {"role": "user", "content": "".join(parts)}], think=think)
     content = m.get("content") or ""
     (LOGS / f"{tag}.raw.txt").write_text(content)
     files = re.findall(r"^````[a-zA-Z]*\s+path=(\S+)[ \t]*\n(.*?)\n````[ \t]*$", content, re.S | re.M)
@@ -109,6 +109,9 @@ if __name__ == "__main__":
     if sys.argv[1] == "sources":
         sources(sys.argv[2])
     elif sys.argv[1] == "write":
-        write(sys.argv[2], sys.argv[3:])
+        # --think=low keeps long code answers out of the model's reasoning (which shares the output budget)
+        flags = [a for a in sys.argv[2:] if a.startswith("--think=")]
+        rest = [a for a in sys.argv[2:] if not a.startswith("--think=")]
+        write(rest[0], rest[1:], think=flags[0].split("=", 1)[1] if flags else "high")
     else:
         print(__doc__)

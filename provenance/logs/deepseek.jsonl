@@ -13,3 +13,6 @@
 {"tag": "write-github-templates", "ts": "2026-11-08 22:00:05", "secs": 16.9, "out_tokens": 2572, "done_reason": "stop", "tool_call": false}
 {"tag": "write-first-law-short", "ts": "2026-11-08 22:01:54", "secs": 96.9, "out_tokens": 29660, "done_reason": "stop", "tool_call": false}
 {"tag": "write-repo-docs-fixes", "ts": "2026-11-08 22:04:56", "secs": 32.7, "out_tokens": 10511, "done_reason": "stop", "tool_call": false}
+{"tag": "write-map-renderer", "ts": "2026-11-17 23:27:42", "secs": 343.7, "out_tokens": 65536, "done_reason": "length", "tool_call": false}
+{"tag": "write-map-renderer", "ts": "2026-11-17 23:30:37", "secs": 141.1, "out_tokens": 37571, "done_reason": "stop", "tool_call": false}
+{"tag": "write-feedback-v1", "ts": "2026-11-17 23:36:56", "secs": 69.4, "out_tokens": 17912, "done_reason": "stop", "tool_call": false}

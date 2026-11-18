@@ -156,7 +156,7 @@ python3 tools/build.py --check
 
 The first command checks every file and regenerates `INDEX.md`, `map.opml` and `site/`. The second checks every file and fails if `INDEX.md` or `map.opml` are out of date. GitHub runs `--check` on every pull request. After a merge to `main`, GitHub rebuilds and publishes the live map.
 
-`tools/build.py` checks every node and generates the outputs. `tools/nodelib.py` holds the file format. `provenance/` records how the first version was drafted and reviewed, with the DeepSeek drafts, the review feedback and the logs.
+`tools/build.py` checks every node and generates the outputs. `tools/nodelib.py` holds the file format. `tools/site/` holds the code that draws the live map (`map.js` and `map.css`); to preview a change, run the build and open `site/index.html` through a local web server, for example `python3 -m http.server --directory site`. `provenance/` records how the first version was drafted and reviewed, with the DeepSeek drafts, the review feedback and the logs.
 
 ## Licensing of contributions
 

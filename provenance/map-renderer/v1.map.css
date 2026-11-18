@@ -1,0 +1,195 @@
+/* ------------------------------------------------------------------ *
+ * Physics Map — styles for the mind map renderer (map.js).
+ * All colours come from the page's custom properties, except the
+ * branch palette which is injected per node as --pm-c by map.js.
+ * ------------------------------------------------------------------ */
+
+.pm-host {
+  position: relative;
+  overflow: hidden;
+}
+
+/* ---- canvas ------------------------------------------------------- */
+
+.pm-svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+  cursor: grab;
+}
+
+.pm-svg.pm-dragging {
+  cursor: grabbing;
+}
+
+.pm-svg text {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* ---- links inside the map ----------------------------------------- */
+
+.pm-svg a {
+  text-decoration: none;
+  fill: inherit;
+}
+
+.pm-svg a:hover .pm-title {
+  text-decoration: underline;
+}
+
+.pm-svg a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.pm-svg a:focus-visible .pm-title,
+.pm-svg a:focus-visible .pm-meta {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+/* ---- labels -------------------------------------------------------- */
+
+.pm-label {
+  fill: var(--fg);
+}
+
+.pm-title {
+  fill: var(--fg);
+}
+
+.pm-meta {
+  font-size: 11px;
+  font-weight: 400;
+  fill: var(--muted);
+}
+
+.pm-meta-open {
+  fill: var(--signal);
+}
+
+.pm-meta-explainer {
+  fill: var(--accent);
+  text-decoration: underline;
+}
+
+.pm-node[data-depth="0"] .pm-label {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.pm-node[data-depth="1"] .pm-label {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.pm-node[data-depth="2"] .pm-label {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.pm-node[data-depth="3"] .pm-label {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+/* ---- root box ------------------------------------------------------ */
+
+.pm-root-box {
+  fill: var(--bg);
+  stroke: var(--line);
+  stroke-width: 2;
+}
+
+/* ---- links and underlines ------------------------------------------ */
+
+.pm-link,
+.pm-underline {
+  fill: none;
+  stroke: var(--pm-c, var(--line));
+  stroke-linecap: round;
+}
+
+.pm-node[data-depth="1"] .pm-underline,
+.pm-link[data-depth="1"] { stroke-width: 2.5; }
+
+.pm-node[data-depth="2"] .pm-underline,
+.pm-link[data-depth="2"] { stroke-width: 2; }
+
+.pm-node[data-depth="3"] .pm-underline,
+.pm-link[data-depth="3"] { stroke-width: 1.5; }
+
+/* ---- expand / collapse toggles ------------------------------------- */
+
+.pm-toggle {
+  cursor: pointer;
+}
+
+.pm-toggle-hit {
+  fill: var(--bg);
+  fill-opacity: 0;
+  stroke: none;
+  pointer-events: all;
+}
+
+.pm-toggle-dot {
+  fill: var(--pm-c, var(--fg));
+  stroke: none;
+}
+
+.pm-toggle.is-open .pm-toggle-dot {
+  fill: var(--bg);
+  stroke: var(--pm-c, var(--fg));
+  stroke-width: 2;
+}
+
+.pm-toggle:focus-visible {
+  outline: none;
+}
+
+.pm-toggle:focus-visible .pm-toggle-dot {
+  stroke: var(--accent);
+  stroke-width: 2.5;
+}
+
+/* ---- toolbar -------------------------------------------------------- */
+
+.pm-toolbar {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  z-index: 2;
+  display: flex;
+  gap: 6px;
+}
+
+.pm-toolbar button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 36px;
+  min-height: 36px;
+  padding: 0 10px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.pm-toolbar button:hover {
+  border-color: var(--muted);
+}
+
+.pm-toolbar button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
